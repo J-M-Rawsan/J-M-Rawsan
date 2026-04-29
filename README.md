@@ -138,4 +138,4 @@
 
 [![](https://komarev.com/ghpvc/?username=J-M-Rawsan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/Rawsan)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31dwltg6aeal2mldyds7lfqplkb4)
