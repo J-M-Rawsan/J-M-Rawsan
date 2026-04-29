@@ -151,6 +151,24 @@
 
 <!-- Proudly created with Rawsan -->
 
+<div align="center">
 
+  <h3>🎵 NOW PLAYING</h3>
+
+  <div style="background: rgba(20, 20, 30, 0.85); 
+              border: 1px solid rgba(255,255,255,0.1); 
+              border-radius: 20px; 
+              padding: 15px; 
+              max-width: 620px; 
+              box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+    
+    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31dwltg6aeal2mldyds7lfqplkb4&redirect=true">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dwltg6aeal2mldyds7lfqplkb4&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true" 
+           width="600" 
+           style="border-radius: 16px;">
+    </a>
+  </div>
+
+</div>
 
 
