@@ -179,6 +179,3 @@
 
 <!-- Proudly created with Rawsan -->
 
-## `✍️ 𝚁𝙰𝙽𝙳𝙾𝙼 𝙳𝙴𝚅 𝚀𝚄𝙾𝚃𝙴`
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
