@@ -12,7 +12,7 @@
 
 ---
 
-## `👨🏽‍💻 WHOAMI:`
+## `👨🏽‍💻 𝕎ℍ𝕆𝔸𝕄𝕀:`
 
 ```bash
 ┌──(RAWSAN㉿SHADOW)-[~]
@@ -30,7 +30,7 @@
 ```
 ---
 
-## `📊 LIVE STATUS BOARD`
+## `📊 𝕃𝕀𝕍𝔼 𝕊𝕋𝔸𝕋𝕌𝕊 𝔹𝕆𝔸ℝ𝔻`
 
 <div align="center">
 
@@ -45,7 +45,7 @@
 
 ---
 
-## ` 💻 TECH STACK`
+## ` 💻 𝕋𝔼ℂℍ 𝕊𝕋𝔸ℂ𝕂`
 
 <div align="center">
 
@@ -66,7 +66,7 @@
 
  ---
 
-## `💀 SKILLS MATRIX`
+## `💀 𝕊𝕂𝕀𝕃𝕃𝕊 𝕄𝔸𝕋ℝ𝕀𝕏``
 
 <div align="center">
 
@@ -83,7 +83,7 @@
 
 ---
 
-## `🏆 TROPHIES`
+## `🏆 𝕋ℝ𝕆ℙℍ𝕀𝔼𝕊`
 
 <div align="center">
 
@@ -93,7 +93,7 @@
 
 ---
 
-## `👾 CONTRIBUTION SNAKE`
+## `👾 ℂ𝕆ℕ𝕋ℝ𝕀𝔹𝕌𝕋𝕀𝕆ℕ 𝕊ℕ𝔸𝕂𝔼`
 
 <picture>
   <source
@@ -112,13 +112,13 @@
 
 ---
 
-## `✍️ RANDOM DEV QUOTE`
+## `✍️ ℝ𝔸ℕ𝔻𝕆𝕄 𝔻𝔼𝕍 ℚ𝕌𝕆𝕋𝔼`
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 <div align="center">
 
-### `⣿ 🎵 NOW PLAYING ⣿`
+### `⣿ 🎵 ℕ𝕆𝕎 ℙ𝕃𝔸𝕐𝕀ℕ𝔾 ⣿`
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31dwltg6aeal2mldyds7lfqplkb4&redirect=true">
  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dwltg6aeal2mldyds7lfqplkb4&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true" width="600">
@@ -128,7 +128,7 @@
 
 ---
 
-## `🔗 CONNECT:`
+## `🔗 ℂ𝕆ℕℕ𝔼ℂ𝕋:`
 
 <div align="center">
 
@@ -151,7 +151,7 @@
 
 <!-- Proudly created with Rawsan -->
 
-𝕎ℍ𝕆𝔸𝕄𝕀
+
 
 
 
