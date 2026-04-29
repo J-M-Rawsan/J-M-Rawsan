@@ -113,8 +113,15 @@
 
 ---
 
-## `✍️ 𝚁𝙰𝙽𝙳𝙾𝙼 𝙳𝙴𝚅 𝚀𝚄𝙾𝚃𝙴`
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- CYBER QUOTE HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=500&lines=✍️+RANDOM+DEV+QUOTE" />
+</p>
+
+<!-- QUOTE CARD -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
+</p>
 
 ---
 <div align="center">
@@ -172,4 +179,6 @@
 
 <!-- Proudly created with Rawsan -->
 
+## `✍️ 𝚁𝙰𝙽𝙳𝙾𝙼 𝙳𝙴𝚅 𝚀𝚄𝙾𝚃𝙴`
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
