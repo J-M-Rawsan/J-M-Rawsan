@@ -117,7 +117,7 @@
 
 ---
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:00F5FF,100:090979&height=120&section=header&text=🎧%20NOW%20PLAYING&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:00F5FF&height=150&section=header&text=🎧%20NOW%20PLAYING&fontSize=38&fontColor=ffffff&animation=blinking" />
 </p>
 
 <p align="center">
@@ -169,11 +169,7 @@
 <!-- Proudly created with Rawsan -->
 <!-- CYBER NOW PLAYING SECTION -->
 
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31dwltg6aeal2mldyds7lfqplkb4&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dwltg6aeal2mldyds7lfqplkb4&cover_image=true&theme=novatorem&show_offline=true&background_color=050816&interchange=true&bar_color=00f5ff&bar_color_cover=true" width="760">
-  </a>
-</p>
+
 
 
 
