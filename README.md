@@ -138,4 +138,121 @@
 
 [![](https://komarev.com/ghpvc/?username=J-M-Rawsan&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<div align="center">
+
+```
+██████╗  █████╗ ██╗    ██╗███████╗ █████╗ ███╗   ██╗
+██╔══██╗██╔══██╗██║    ██║██╔════╝██╔══██╗████╗  ██║
+██████╔╝███████║██║ █╗ ██║███████╗███████║██╔██╗ ██║
+██╔══██╗██╔══██║██║███╗██║╚════██║██╔══██║██║╚██╗██║
+██║  ██║██║  ██║╚███╔███╔╝███████║██║  ██║██║ ╚████║
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
+```
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=%3E+J.M.RAWSAN+//+INITIALIZING...;%3E+Cybersecurity+%2B+Dev+%3D+%E2%9C%93;%3E+he%2Fthey+%C2%B7+In+the+shadows;%3E+STATUS%3A+ACTIVE+%5BONLINE%5D)](https://git.io/typing-svg)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=J-M-Rawsan&style=flat-square&color=00d4ff&labelColor=020a0e&label=VISITORS)
+![GitHub followers](https://img.shields.io/github/followers/J-M-Rawsan?style=flat-square&color=00ff88&labelColor=020a0e&label=FOLLOWERS)
+
+</div>
+
+---
+
+```
+╔══════════════════════════════════════════════════════╗
+║              [ OPERATOR PROFILE ]                    ║
+╚══════════════════════════════════════════════════════╝
+```
+
+```yaml
+ID       : J.M.RAWSAN
+ALIAS    : realrawsan
+STATUS   : 🟢 ACTIVE
+ROLE     : Developer + Cybersecurity Enthusiast
+BIO      : he/they · 0x26years · In the shadows
+LOCATION : 🌐 Unknown [ENCRYPTED]
+```
+
+---
+
+```
+╔══════════════════════════════════════════════════════╗
+║                 [ TECH STACK ]                       ║
+╚══════════════════════════════════════════════════════╝
+```
+
+| SKILL | LEVEL | PROGRESS |
+|-------|-------|----------|
+| 🐍 Python | ●●●●● | `████████████████████` 90% |
+| 🔒 Cyber Security | ●●●●○ | `████████████████░░░░` 78% |
+| 🌐 HTML / CSS | ●●●●○ | `██████████████░░░░░░` 72% |
+| ☕ JavaScript | ●●●○○ | `████████████░░░░░░░░` 60% |
+| ☕ Java | ●●●○○ | `███████████░░░░░░░░░` 55% |
+| 🗄️ MySQL / SQL Server | ●●●○○ | `████████████░░░░░░░░` 58% |
+
+---
+
+```
+╔══════════════════════════════════════════════════════╗
+║               [ ACTIVE PROJECTS ]                    ║
+╚══════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+[![Password Manager](https://github-readme-stats.vercel.app/api/pin/?username=J-M-Rawsan&repo=Syntecxhub_Password_Manager&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=00ff88&text_color=c8f0ff&bg_color=050f15)](https://github.com/J-M-Rawsan/Syntecxhub_Password_Manager)
+
+[![Port Scanner](https://github-readme-stats.vercel.app/api/pin/?username=J-M-Rawsan&repo=Syntecxhub_Port_Scanner&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=00ff88&text_color=c8f0ff&bg_color=050f15)](https://github.com/J-M-Rawsan/Syntecxhub_Port_Scanner)
+
+[![File Encryptor](https://github-readme-stats.vercel.app/api/pin/?username=J-M-Rawsan&repo=simple-file-encryptor&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=00ff88&text_color=c8f0ff&bg_color=050f15)](https://github.com/J-M-Rawsan/simple-file-encryptor)
+
+[![Encrypted Chat](https://github-readme-stats.vercel.app/api/pin/?username=J-M-Rawsan&repo=Syntecxhub_Encrypted_Chat_App&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=00ff88&text_color=c8f0ff&bg_color=050f15)](https://github.com/J-M-Rawsan/Syntecxhub_Encrypted_Chat_App)
+
+</div>
+
+---
+
+```
+╔══════════════════════════════════════════════════════╗
+║               [ GITHUB STATS ]                       ║
+╚══════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=J-M-Rawsan&show_icons=true&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=00ff88&text_color=c8f0ff&bg_color=050f15&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=J-M-Rawsan&layout=compact&theme=github_dark&border_color=00d4ff&title_color=00d4ff&text_color=c8f0ff&bg_color=050f15)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=J-M-Rawsan&theme=dark&border=00d4ff&ring=00d4ff&fire=00ff88&currStreakLabel=00d4ff&background=050f15&sideLabels=c8f0ff&dates=3a7a8a)
+
+</div>
+
+---
+
+```
+╔══════════════════════════════════════════════════════╗
+║               [ CONTACT / LINKS ]                    ║
+╚══════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/EMAIL-an.rawsan%40gmail.com-00d4ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020a0e)](mailto:an.rawsan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-j--m--raushan-00d4ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020a0e)](https://www.linkedin.com/in/j-m-raushan-a2b93b3ab)
+[![Twitter](https://img.shields.io/badge/TWITTER-@realrawsan-00d4ff?style=for-the-badge&logo=x&logoColor=white&labelColor=020a0e)](https://twitter.com/realrawsan)
+[![GitHub](https://img.shields.io/badge/GITHUB-J--M--Rawsan-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=020a0e)](https://github.com/J-M-Rawsan)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+[ TRANSMISSION END ] // J.M.RAWSAN // DIGITAL DASHBOARD v2.0
+```
+
+</div>
+
 
