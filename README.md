@@ -119,7 +119,7 @@
 <div align="center">
 
 ╔══════════════════════════════════════════════════════╗
-║🎵 𝙽𝙾𝚆 𝙿𝙻𝙰𝚈𝙸𝙽𝙶                        ║
+                🎵 𝙽𝙾𝚆 𝙿𝙻𝙰𝚈𝙸𝙽𝙶                        
 ╚══════════════════════════════════════════════════════╝
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31dwltg6aeal2mldyds7lfqplkb4&redirect=true">
