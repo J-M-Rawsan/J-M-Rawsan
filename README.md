@@ -128,7 +128,13 @@
 </a>
   
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=1800&pause=400&color=38BDF8&center=true&vCenter=true&width=700&height=40&lines=▰▰▰▱▱+PLAYING+SIGNAL+DETECTED+▱▱▰▰▰;◢◤+NEON+AUDIO+STREAM+ACTIVE+◥◣" />
+</p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:090979&height=3&section=footer" width="100%">
+</p>
 
 ---
 
@@ -169,12 +175,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=1800&pause=400&color=38BDF8&center=true&vCenter=true&width=700&height=40&lines=▰▰▰▱▱+PLAYING+SIGNAL+DETECTED+▱▱▰▰▰;◢◤+NEON+AUDIO+STREAM+ACTIVE+◥◣" />
-</p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:090979&height=3&section=footer" width="100%">
-</p>
 
 
