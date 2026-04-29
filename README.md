@@ -120,9 +120,6 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:00F5FF&height=150&section=header&text=🎧%20NOW%20PLAYING&fontSize=38&fontColor=ffffff&animation=blinking" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2200&pause=700&color=00F5FF&center=true&vCenter=true&width=850&height=60&lines=SYSTEM+SYNCED+WITH+SPOTIFY;CYBER+VIBES+ONLINE;LOADING+CURRENT+TRACK..." />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&height=70&lines=%F0%9F%8E%A7+NOW+PLAYING+%F0%9F%8E%A7;Loading+your+vibes...;Cyber+Mode+Activated" />
