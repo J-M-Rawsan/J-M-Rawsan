@@ -116,6 +116,13 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:00F5FF,100:090979&height=120&section=header&text=🎧%20NOW%20PLAYING&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2200&pause=700&color=00F5FF&center=true&vCenter=true&width=850&height=60&lines=SYSTEM+SYNCED+WITH+SPOTIFY;CYBER+VIBES+ONLINE;LOADING+CURRENT+TRACK..." />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&height=70&lines=%F0%9F%8E%A7+NOW+PLAYING+%F0%9F%8E%A7;Loading+your+vibes...;Cyber+Mode+Activated" />
@@ -161,13 +168,6 @@
 
 <!-- Proudly created with Rawsan -->
 <!-- CYBER NOW PLAYING SECTION -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:00F5FF,100:090979&height=120&section=header&text=🎧%20NOW%20PLAYING&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2200&pause=700&color=00F5FF&center=true&vCenter=true&width=850&height=60&lines=SYSTEM+SYNCED+WITH+SPOTIFY;CYBER+VIBES+ONLINE;LOADING+CURRENT+TRACK..." />
-</p>
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31dwltg6aeal2mldyds7lfqplkb4&redirect=true">
