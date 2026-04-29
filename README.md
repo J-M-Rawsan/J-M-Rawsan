@@ -12,8 +12,10 @@
 </div>
 
 ---
-
-## `👨🏽‍💻 𝚆𝙷𝙾𝙰𝙼𝙸`
+<!-- WHOAMI -->
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=500&lines=👨🏽‍💻+WHOAMI" />
+</p>
 
 ```bash
 ┌──(RAWSAN㉿SHADOW)-[~]
@@ -31,7 +33,11 @@
 ```
 ---
 
-## `📊 𝙻𝙸𝚅𝙴 𝚂𝚃𝙰𝚃𝚄𝚂 𝙱𝙾𝙰𝚁𝙳`
+<!-- LIVE STATUS BOARD -->
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=650&lines=📊+LIVE+STATUS+BOARD" />
+</p>
 
 <div align="center">
 
@@ -45,9 +51,11 @@
 </div>
 
 ---
+
 <!-- TECH STACK -->
+
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2200&pause=700&color=00F5FF&vCenter=true&width=600&lines=💻+TECH+STACK" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=500&lines=💻+TECH+STACK" />
 </p>
 
 <div align="center">
@@ -68,8 +76,11 @@
 </div>
 
  ---
+<!-- SKILL MATRIX -->
 
-## `💀 𝚂𝙺𝙸𝙻𝙻 𝙼𝙰𝚃𝚁𝙸𝚇`
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=650&lines=💀+SKILL+MATRIX" />
+</p>
 
 <div align="center">
 
@@ -86,7 +97,12 @@
 
 ---
 
-## `🏆 𝚃𝚁𝙾𝙿𝙷𝙸𝙴𝚂`
+
+<!-- TROPHIES -->
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=650&lines=🏆+TROPHIES" />
+</p>
 
 <div align="center">
 
@@ -120,16 +136,19 @@
 ---
 
 <!-- CYBER QUOTE HEADER -->
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=500&lines=✍️+RANDOM+DEV+QUOTE" />
 </p>
 
 <!-- QUOTE CARD -->
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
 </p>
 
 ---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:00F5FF,100:020617&height=120&section=header&animation=twinkling" width="100%"/>
 </div>
@@ -162,7 +181,11 @@
 
 ---
 
-## `🔗 𝙲𝙾𝙽𝙽𝙴𝙲𝚃`
+<!-- CONNECT -->
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=650&lines=🔗+CONNECT" />
+</p>
 
 <div align="center">
 
