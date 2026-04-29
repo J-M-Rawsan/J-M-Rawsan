@@ -14,7 +14,7 @@
 ---
 <!-- WHOAMI -->
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2000&pause=600&color=00F5FF&vCenter=true&width=750&lines=👨🏽‍💻+WHOAMI;⚡+CYBER+SECURITY+ENTHUSIAST;💻+DEVELOPER+%7C+PROBLEM+SOLVER;◢◤+SYSTEM+IDENTIFIED+◥◣" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=500&lines=👨🏽‍💻+WHOAMI" />
 </p>
 
 ```bash
