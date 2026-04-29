@@ -138,6 +138,4 @@
 
 [![](https://komarev.com/ghpvc/?username=J-M-Rawsan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/Rawsan/31dwltg6aeal2mldyds7lfqplkb4)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&width=435&lines=Hi+I'm+Rawsan!;Full+Stack+Developer;Always+learning...)](https://git.io/typing-svg)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/spotify?background_color=0d1117&border_color=00d4ff)](https://spotify-github-profile.kittinanx.com/api/login)
