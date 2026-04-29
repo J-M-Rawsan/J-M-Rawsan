@@ -122,7 +122,11 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&height=70&lines=%F0%9F%8E%A7+NOW+PLAYING+%F0%9F%8E%A7;Loading+your+vibes...;Cyber+Mode+Activated" />
-  ────────────────────────────────────────────
+  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:090979&height=3&section=footer" width="100%">
+</p>
+
 </p>
 
 <p align="center">
