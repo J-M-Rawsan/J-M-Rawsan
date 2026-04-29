@@ -128,14 +128,16 @@
 </div>
 
 ---
+ 
+<div align="center">
   
 ## `⣿ [ 🎵 NOW PLAYING ] ⣿`
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31dwltg6aeal2mldyds7lfqplkb4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31dwltg6aeal2mldyds7lfqplkb4&redirect=true)
 
+</div>
 ---
 
-</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:020a0e&height=100&section=footer" width="100%"/>
