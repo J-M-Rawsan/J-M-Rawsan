@@ -30,7 +30,7 @@
 ```
 ---
 
-## `📊 𝕃𝕀𝕍𝔼 𝕊𝕋𝔸𝕋𝕌𝕊 𝔹𝕆𝔸ℝ𝔻`
+## `📊 𝙻𝙸𝚅𝙴 𝚂𝚃𝙰𝚃𝚄𝚂 𝙱𝙾𝙰𝚁𝙳`
 
 <div align="center">
 
@@ -45,7 +45,7 @@
 
 ---
 
-## ` 💻 𝕋𝔼ℂℍ 𝕊𝕋𝔸ℂ𝕂`
+## ` 💻 𝚃𝙴𝙲𝙷 𝚂𝚃𝙰𝙲𝙺`
 
 <div align="center">
 
@@ -66,7 +66,7 @@
 
  ---
 
-## `💀 𝕊𝕂𝕀𝕃𝕃𝕊 𝕄𝔸𝕋ℝ𝕀𝕏`
+## `💀 𝚂𝙺𝙸𝙻𝙻 𝙼𝙰𝚃𝚁𝙸𝚇`
 
 <div align="center">
 
@@ -83,7 +83,7 @@
 
 ---
 
-## `🏆 𝕋ℝ𝕆ℙℍ𝕀𝔼𝕊`
+## `🏆 𝚃𝚁𝙾𝙿𝙷𝙸𝙴𝚂`
 
 <div align="center">
 
@@ -93,7 +93,7 @@
 
 ---
 
-## `👾 ℂ𝕆ℕ𝕋ℝ𝕀𝔹𝕌𝕋𝕀𝕆ℕ 𝕊ℕ𝔸𝕂𝔼`
+## `👾 𝙲𝙾𝙽𝚃𝚁𝙸𝙱𝚄𝚃𝙸𝙾𝙽 𝚂𝙽𝙰𝙺𝙴`
 
 <picture>
   <source
@@ -112,13 +112,13 @@
 
 ---
 
-## `✍️ ℝ𝔸ℕ𝔻𝕆𝕄 𝔻𝔼𝕍 ℚ𝕌𝕆𝕋𝔼`
+## `✍️ 𝚁𝙰𝙽𝙳𝙾𝙼 𝙳𝙴𝚅 𝚀𝚄𝙾𝚃𝙴`
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 <div align="center">
 
-### `⣿ 🎵 ℕ𝕆𝕎 ℙ𝕃𝔸𝕐𝕀ℕ𝔾 ⣿`
+### `⣿ 🎵 𝙽𝙾𝚆 𝙿𝙻𝙰𝚈𝙸𝙽𝙶 ⣿`
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31dwltg6aeal2mldyds7lfqplkb4&redirect=true">
  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dwltg6aeal2mldyds7lfqplkb4&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true" width="600">
@@ -128,7 +128,7 @@
 
 ---
 
-## `🔗 ℂ𝕆ℕℕ𝔼ℂ𝕋`
+## `🔗 𝙲𝙾𝙽𝙽𝙴𝙲𝚃`
 
 <div align="center">
 
