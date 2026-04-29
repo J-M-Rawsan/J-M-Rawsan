@@ -118,13 +118,28 @@
 ---
 
 <div align="center">
-  
-**`⣿ [ 🎵 NOW PLAYING ] ⣿`**
 
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31dwltg6aeal2mldyds7lfqplkb4&redirect=true">
- <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dwltg6aeal2mldyds7lfqplkb4&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true" width="600">
-</a>
-</div>
+  **`⣿ [ 🎵 NOW PLAYING ] ⣿`**
+
+  <div style="
+    background: rgba(15, 23, 42, 0.55);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border-radius: 24px;
+    border: 1px solid rgba(148, 163, 184, 0.2);
+    box-shadow: 0 10px 40px -10px rgba(0, 0, 0, 0.5),
+                inset 0 1px 0 rgba(255,255,255,0.15);
+    padding: 16px;
+    max-width: 630px;
+  ">
+    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31dwltg6aeal2mldyds7lfqplkb4&redirect=true">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dwltg6aeal2mldyds7lfqplkb4&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true" 
+           width="600" 
+           style="border-radius: 18px;">
+    </a>
+  </div>
+
+
 
 ---
 
