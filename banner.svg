@@ -1,0 +1,144 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #020a0e; }
+      .grid-line { stroke: rgba(0,212,255,0.04); stroke-width: 1; }
+      .border { fill: none; stroke: #0d3a4a; stroke-width: 1; }
+      .accent-bar { fill: url(#accentGrad); }
+      .name {
+        font-family: 'Courier New', monospace;
+        font-size: 46px;
+        font-weight: 900;
+        fill: #00d4ff;
+        filter: url(#glow);
+        letter-spacing: 6px;
+      }
+      .sub {
+        font-family: 'Courier New', monospace;
+        font-size: 13px;
+        fill: #00ff88;
+        letter-spacing: 5px;
+      }
+      .bio {
+        font-family: 'Courier New', monospace;
+        font-size: 11px;
+        fill: #3a7a8a;
+        letter-spacing: 1px;
+      }
+      .corner { fill: #00d4ff; }
+      .tag-text {
+        font-family: 'Courier New', monospace;
+        font-size: 9px;
+        fill: #00d4ff;
+        letter-spacing: 1px;
+      }
+      .blink { animation: blink 1.5s infinite; }
+      @keyframes blink { 0%,49%{opacity:1} 50%,100%{opacity:0} }
+      .pulse { animation: pulse 2s infinite; }
+      @keyframes pulse { 0%,100%{opacity:1;r:5} 50%{opacity:0.3;r:4} }
+      .ring1 { animation: rot1 8s linear infinite; transform-origin: 60px 95px; }
+      .ring2 { animation: rot2 12s linear infinite; transform-origin: 60px 95px; }
+      @keyframes rot1 { to { transform: rotate(360deg); } }
+      @keyframes rot2 { to { transform: rotate(-360deg); } }
+      .fadein { animation: fadein 1.2s ease both; }
+      @keyframes fadein { from{opacity:0;transform:translateY(-8px)} to{opacity:1;transform:translateY(0)} }
+      .scanline { animation: scan 5s linear infinite; }
+      @keyframes scan { 0%{transform:translateY(-200px)} 100%{transform:translateY(200px)} }
+    </style>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow2">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00d4ff"/>
+      <stop offset="100%" stop-color="#00ff88"/>
+    </linearGradient>
+    <linearGradient id="topLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="transparent"/>
+      <stop offset="50%" stop-color="#00d4ff" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </linearGradient>
+  </defs>
+
+  <!-- BG -->
+  <rect width="900" height="200" class="bg"/>
+
+  <!-- Grid -->
+  <line x1="0" y1="50" x2="900" y2="50" class="grid-line"/>
+  <line x1="0" y1="100" x2="900" y2="100" class="grid-line"/>
+  <line x1="0" y1="150" x2="900" y2="150" class="grid-line"/>
+  <line x1="150" y1="0" x2="150" y2="200" class="grid-line"/>
+  <line x1="300" y1="0" x2="300" y2="200" class="grid-line"/>
+  <line x1="450" y1="0" x2="450" y2="200" class="grid-line"/>
+  <line x1="600" y1="0" x2="600" y2="200" class="grid-line"/>
+  <line x1="750" y1="0" x2="750" y2="200" class="grid-line"/>
+
+  <!-- Scanline -->
+  <rect width="900" height="2" fill="rgba(0,212,255,0.05)" class="scanline"/>
+
+  <!-- Border -->
+  <rect x="1" y="1" width="898" height="198" class="border"/>
+  <rect x="0" y="0" width="900" height="1" fill="url(#topLine)"/>
+
+  <!-- Left accent -->
+  <rect x="0" y="0" width="4" height="200" fill="url(#accentGrad)"/>
+
+  <!-- Corners -->
+  <rect x="8" y="8" width="14" height="2" class="corner" opacity="0.8"/>
+  <rect x="8" y="8" width="2" height="14" class="corner" opacity="0.8"/>
+  <rect x="878" y="8" width="14" height="2" class="corner" opacity="0.8"/>
+  <rect x="890" y="8" width="2" height="14" class="corner" opacity="0.8"/>
+  <rect x="8" y="190" width="14" height="2" class="corner" opacity="0.8"/>
+  <rect x="8" y="178" width="2" height="14" class="corner" opacity="0.8"/>
+  <rect x="878" y="190" width="14" height="2" class="corner" opacity="0.8"/>
+  <rect x="890" y="178" width="2" height="14" class="corner" opacity="0.8"/>
+
+  <!-- Avatar -->
+  <circle cx="60" cy="95" r="36" fill="#050f15" stroke="#0d3a4a" stroke-width="1"/>
+  <circle cx="60" cy="95" r="42" fill="none" stroke="#00d4ff" stroke-width="1" stroke-dasharray="4 8" class="ring1" opacity="0.6"/>
+  <circle cx="60" cy="95" r="48" fill="none" stroke="#00ff88" stroke-width="1" stroke-dasharray="2 10" class="ring2" opacity="0.3"/>
+  <text x="60" y="103" text-anchor="middle" font-size="28" class="fadein">♟️</text>
+
+  <!-- Online dot -->
+  <circle cx="89" cy="62" r="5" fill="#00ff88" filter="url(#glow2)" class="pulse"/>
+
+  <!-- Name -->
+  <text x="120" y="72" class="name fadein">J.M.RAWSAN</text>
+  <!-- Sub -->
+  <text x="122" y="96" class="sub fadein">BTECH · CYBER SECURITY · HE/THEY</text>
+  <!-- Bio -->
+  <text x="122" y="116" class="bio">0x26years · in the shadows · SyntecXHub Intern</text>
+
+  <!-- Divider -->
+  <line x1="120" y1="128" x2="880" y2="128" stroke="#0d3a4a" stroke-width="1"/>
+
+  <!-- Tags row -->
+  <rect x="120" y="138" width="52" height="15" fill="none" stroke="rgba(0,212,255,0.25)" stroke-width="1"/>
+  <text x="146" y="149" text-anchor="middle" class="tag-text">Python</text>
+
+  <rect x="178" y="138" width="58" height="15" fill="none" stroke="rgba(0,212,255,0.25)" stroke-width="1"/>
+  <text x="207" y="149" text-anchor="middle" class="tag-text">CyberSec</text>
+
+  <rect x="242" y="138" width="36" height="15" fill="none" stroke="rgba(0,212,255,0.25)" stroke-width="1"/>
+  <text x="260" y="149" text-anchor="middle" class="tag-text">Java</text>
+
+  <rect x="284" y="138" width="28" height="15" fill="none" stroke="rgba(0,212,255,0.25)" stroke-width="1"/>
+  <text x="298" y="149" text-anchor="middle" class="tag-text">JS</text>
+
+  <rect x="318" y="138" width="38" height="15" fill="none" stroke="rgba(0,212,255,0.25)" stroke-width="1"/>
+  <text x="337" y="149" text-anchor="middle" class="tag-text">SQL</text>
+
+  <rect x="362" y="138" width="52" height="15" fill="none" stroke="rgba(0,212,255,0.25)" stroke-width="1"/>
+  <text x="388" y="149" text-anchor="middle" class="tag-text">Node.js</text>
+
+  <!-- Right side: status -->
+  <text x="880" y="148" text-anchor="end" font-family="Courier New,monospace" font-size="9" fill="#00ff88" letter-spacing="2" class="blink">● PROFILE_AUTHENTICATED</text>
+
+  <!-- Footer -->
+  <text x="16" y="192" class="bio" font-size="8" opacity="0.4">v2.6.0 // 0xRAWSAN // github.com/J-M-Rawsan</text>
+  <text x="880" y="192" text-anchor="end" class="bio" font-size="8" opacity="0.4">[ OMEGIAN IN PROGRESS ]</text>
+</svg>
