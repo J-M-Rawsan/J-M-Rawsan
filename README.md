@@ -118,13 +118,10 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=80&section=header&text=🎧%20NOW%20PLAYING%20🎧&fontColor=ffffff&fontAlign=80" />
-</p> 
-
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31dwltg6aeal2mldyds7lfqplkb4&redirect=true">
  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dwltg6aeal2mldyds7lfqplkb4&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true" width="600">
 </a>
-
+</p>
 </div>
 
 ---
