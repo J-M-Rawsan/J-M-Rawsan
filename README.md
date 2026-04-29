@@ -151,5 +151,7 @@
 
 
 
-
+<a href="https://{PA_USERNAME}.pythonanywhere.com/link">
+  <img src="https://{PA_USERNAME}.pythonanywhere.com?spin=true&scan=true&theme=dark&eq_color=00d4ff">
+</a>
 
