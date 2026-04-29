@@ -116,32 +116,13 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
 <div align="center">
 
-  <h3>
-    <span style="background: linear-gradient(90deg, #1DB954, #1ed760); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-      🎵 NOW PLAYING
-    </span>
-  </h3>
+**`⣿ [ 🎵 NOW PLAYING ] ⣿`**
 
-  <div style="
-    background: rgba(13, 17, 23, 0.65);
-    backdrop-filter: blur(16px);
-    -webkit-backdrop-filter: blur(16px);
-    border: 1px solid rgba(255, 255, 255, 0.15);
-    border-radius: 20px;
-    padding: 12px;
-    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
-    max-width: 620px;
-    margin: 15px auto;
-  ">
-    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31dwltg6aeal2mldyds7lfqplkb4&redirect=true">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dwltg6aeal2mldyds7lfqplkb4&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true" 
-           width="600" 
-           style="border-radius: 16px; display: block;">
-    </a>
-  </div>
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31dwltg6aeal2mldyds7lfqplkb4&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dwltg6aeal2mldyds7lfqplkb4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true" width="600" height="150">
+</a>
 
 </div>
 
