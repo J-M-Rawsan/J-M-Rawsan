@@ -97,7 +97,7 @@
 <!-- CONTRIBUTION SNAKE -->
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=👾+CONTRIBUTION+SNAKE" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=500&lines=👾+CONTRIBUTION+SNAKE" />
 </p>
 
 <picture>
