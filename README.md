@@ -45,8 +45,10 @@
 </div>
 
 ---
-
-## ` 💻 𝚃𝙴𝙲𝙷 𝚂𝚃𝙰𝙲𝙺`
+<!-- TECH STACK -->
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2200&pause=700&color=00F5FF&vCenter=true&width=600&lines=💻+TECH+STACK" />
+</p>
 
 <div align="center">
 
