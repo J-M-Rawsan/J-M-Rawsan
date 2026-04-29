@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:00F5FF,100:020617&height=120&section=header&animation=twinkling" width="100%"/>
-</div>
-
 
 <div align="center">
 
