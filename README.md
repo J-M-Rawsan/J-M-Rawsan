@@ -174,7 +174,37 @@
 <!-- Proudly created with Rawsan -->
 <!-- CYBER NOW PLAYING SECTION -->
 
+<!-- HEADER (TOP GLOW WAVE) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,40:020024,100:000000&height=120&section=header&animation=fadeIn" width="100%"/>
+</div>
 
+<!-- CYBER STATUS TEXT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2000&pause=700&color=00F5FF&center=true&vCenter=true&width=800&height=50&lines=◢◤+CYBER+AUDIO+SYSTEM+ONLINE+◥◣;LOADING+LIVE+TRACK..." />
+</p>
+
+<!-- SPOTIFY CARD -->
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31dwltg6aeal2mldyds7lfqplkb4&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dwltg6aeal2mldyds7lfqplkb4&cover_image=true&theme=novatorem&show_offline=true&background_color=020617&interchange=true&bar_color=00F5FF&bar_color_cover=true" width="750">
+  </a>
+</p>
+
+<!-- GLOW DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:020024&height=4" width="100%">
+</p>
+
+<!-- ANIMATED EQUALIZER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=1200&pause=200&color=38BDF8&center=true&vCenter=true&width=700&height=40&lines=▁▂▃▄▅▆▇█▇▆▅▄▃▂▁;▂▄▆█▆▄▂▂▄▆█▆▄▂;▄▅▆▇▆▅▄▃▂▁▂▃▄" />
+</p>
+
+<!-- FOOTER (BOTTOM GLOW WAVE) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:020024,100:00F5FF&height=120&section=footer&animation=fadeIn" width="100%"/>
+</div>
 
 
 
