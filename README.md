@@ -119,27 +119,31 @@
 
 <div align="center">
 
-  **`⣿ [ 🎵 NOW PLAYING ] ⣿`**
+  <h3>
+    <span style="background: linear-gradient(90deg, #1DB954, #1ed760); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+      🎵 NOW PLAYING
+    </span>
+  </h3>
 
   <div style="
-    background: rgba(15, 23, 42, 0.55);
-    backdrop-filter: blur(20px);
-    -webkit-backdrop-filter: blur(20px);
-    border-radius: 24px;
-    border: 1px solid rgba(148, 163, 184, 0.2);
-    box-shadow: 0 10px 40px -10px rgba(0, 0, 0, 0.5),
-                inset 0 1px 0 rgba(255,255,255,0.15);
-    padding: 16px;
-    max-width: 630px;
+    background: rgba(13, 17, 23, 0.65);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    border-radius: 20px;
+    padding: 12px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+    max-width: 620px;
+    margin: 15px auto;
   ">
     <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31dwltg6aeal2mldyds7lfqplkb4&redirect=true">
       <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dwltg6aeal2mldyds7lfqplkb4&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true" 
            width="600" 
-           style="border-radius: 18px;">
+           style="border-radius: 16px; display: block;">
     </a>
   </div>
 
-
+</div>
 
 ---
 
