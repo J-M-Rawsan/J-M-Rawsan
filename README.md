@@ -140,12 +140,13 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:090979&height=3&section=footer" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=900&pause=150&color=38BDF8&center=true&vCenter=true&width=900&height=45&lines=▁▂▃▄▅▆▇█▇▆▅▄▃▂▁;▂▄▆█▆▄▂▂▄▆█▆▄▂;▇▆▅▄▃▂▁▂▃▄▅▆▇;█▇▆▅▄▃▂▁▂▃▄▅▆▇█" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=900&pause=150&color=38BDF8&center=true&vCenter=true&width=900&height=45&lines=▁▂▃▄▅▆▇█▇▆▅▄▃▂▁;▂▄▆█▆▄▂▂▄▆█▆▄▂;▇▆▅▄▃▂▁▂▃▄▅▆▇;█▇▆▅▄▃▂▁▂▃▄▅▆▇█" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:090979&height=3&section=footer" width="100%">
 </p>
+
 
 ---
 
