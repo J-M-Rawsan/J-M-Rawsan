@@ -118,7 +118,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=🎧+NOW+PLAYING+🎧" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&height=70&lines=%F0%9F%8E%A7+NOW+PLAYING+%F0%9F%8E%A7;Loading+your+vibes...;Cyber+Mode+Activated" />
   ────────────────────────────────────────────
 </p>
 
