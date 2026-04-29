@@ -154,6 +154,27 @@
 [![](https://komarev.com/ghpvc/?username=J-M-Rawsan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with Rawsan -->
+<!-- CYBER NOW PLAYING SECTION -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:00F5FF,100:090979&height=120&section=header&text=🎧%20NOW%20PLAYING&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2200&pause=700&color=00F5FF&center=true&vCenter=true&width=850&height=60&lines=SYSTEM+SYNCED+WITH+SPOTIFY;CYBER+VIBES+ONLINE;LOADING+CURRENT+TRACK..." />
+</p>
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31dwltg6aeal2mldyds7lfqplkb4&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dwltg6aeal2mldyds7lfqplkb4&cover_image=true&theme=novatorem&show_offline=true&background_color=050816&interchange=true&bar_color=00f5ff&bar_color_cover=true" width="760">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=1800&pause=400&color=38BDF8&center=true&vCenter=true&width=700&height=40&lines=▰▰▰▱▱+PLAYING+SIGNAL+DETECTED+▱▱▰▰▰;◢◤+NEON+AUDIO+STREAM+ACTIVE+◥◣" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:090979&height=3&section=footer" width="100%">
+</p>
 
 
