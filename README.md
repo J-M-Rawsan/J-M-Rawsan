@@ -143,6 +143,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:090979&height=3&section=footer" width="100%">
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:090979,100:00F5FF&height=5&section=footer" width="100%">
+</p>
 ---
 
 ## `🔗 𝙲𝙾𝙽𝙽𝙴𝙲𝚃`
