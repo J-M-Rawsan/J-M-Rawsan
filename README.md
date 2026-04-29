@@ -117,7 +117,7 @@
 
 ---
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:020024,100:00F5FF&height=150&section=header&text=🎧%20NOW%20PLAYING&fontSize=36&fontColor=ffffff&animation=twinkling&desc=CYBER%20MUSIC%20MODE&descSize=13&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:020024,75:00F5FF,100:090979&height=120&section=header&animation=fadeIn" />
 </p>
 
 <p align="center">
