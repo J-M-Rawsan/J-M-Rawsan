@@ -137,7 +137,7 @@
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31dwltg6aeal2mldyds7lfqplkb4&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dwltg6aeal2mldyds7lfqplkb4&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true" 
     width="600"
-    style="border-radius: 15px; border: 1px solid #0d1117;">
+    style="border-radius: 15px; border: 1px solid # 0d1117;">
   </a>
 </div>
 
