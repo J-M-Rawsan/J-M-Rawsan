@@ -94,7 +94,11 @@
 
 ---
 
-## `👾 𝙲𝙾𝙽𝚃𝚁𝙸𝙱𝚄𝚃𝙸𝙾𝙽 𝚂𝙽𝙰𝙺𝙴`
+<!-- CONTRIBUTION SNAKE -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=👾+CONTRIBUTION+SNAKE" />
+</p>
 
 <picture>
   <source
