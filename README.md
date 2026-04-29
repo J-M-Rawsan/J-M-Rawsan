@@ -154,7 +154,11 @@
 [![](https://komarev.com/ghpvc/?username=J-M-Rawsan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with Rawsan -->
-
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31dwltg6aeal2mldyds7lfqplkb4&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dwltg6aeal2mldyds7lfqplkb4&cover_image=false&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color=ffffff" width="600">
+  </a>
+</p>
 
 
 
