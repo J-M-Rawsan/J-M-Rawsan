@@ -116,9 +116,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:020024,75:00F5FF,100:090979&height=120&section=header&animation=fadeIn" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:00F5FF,100:020617&height=120&section=header&animation=twinkling" width="100%"/>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&height=70&lines=%F0%9F%8E%A7+NOW+PLAYING+%F0%9F%8E%A7;Loading+your+vibes...;Cyber+Mode+Activated" />
