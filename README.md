@@ -133,6 +133,10 @@
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31dwltg6aeal2mldyds7lfqplkb4&redirect=true">
  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dwltg6aeal2mldyds7lfqplkb4&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true" width="600">
 </a>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:090979&height=3&section=footer" width="100%">
+</p>
   
 </p>
 <p align="center">
@@ -143,9 +147,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=900&pause=150&color=38BDF8&center=true&vCenter=true&width=900&height=45&lines=▁▂▃▄▅▆▇█▇▆▅▄▃▂▁;▂▄▆█▆▄▂▂▄▆█▆▄▂;▇▆▅▄▃▂▁▂▃▄▅▆▇;█▇▆▅▄▃▂▁▂▃▄▅▆▇█" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:090979&height=3&section=footer" width="100%">
-</p>
+
 
 
 ---
