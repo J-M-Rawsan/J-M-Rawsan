@@ -134,10 +134,7 @@
 **`⣿ [ 🎵 NOW PLAYING ] ⣿`**
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31dwltg6aeal2mldyds7lfqplkb4&redirect=true">
-  <a href="https://{PA_USERNAME}.pythonanywhere.com/link">
-  <img src="https://{PA_USERNAME}.pythonanywhere.com?spin=true&scan=true&theme=dark&eq_color=00d4ff">
-</a>
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dwltg6aeal2mldyds7lfqplkb4&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true" width="600">
+ <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dwltg6aeal2mldyds7lfqplkb4&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true" width="600">
 </a>
 
 </div>
