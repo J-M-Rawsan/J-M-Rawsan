@@ -254,10 +254,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=650&lines=💀+SKILL+MATRIX;⚡+CYBER+ABILITY+SCANNER" />
 </p>
 
-<!-- TOP NEON LINE -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:020024,100:00F5FF&height=4" width="85%">
-</p>
 
 <div align="center">
 
@@ -277,7 +273,4 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1200&pause=300&color=38BDF8&center=true&vCenter=true&width=700&lines=analyzing+skill+modules...;cyber+load+calculated;matrix+sync+complete" />
 </p>
 
-<!-- BOTTOM NEON LINE -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,50:00F5FF,100:020024&height=4" width="85%">
-</p>
+
