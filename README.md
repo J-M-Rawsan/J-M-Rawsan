@@ -208,7 +208,9 @@
 *♟️ Stay in the shadows...*
 </div>
 
-[![](https://komarev.com/ghpvc/?username=J-M-Rawsan&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left">
+  <img src="https://count.getloli.com/get/@J-M-Rawsan?theme=rule34" />
+</p>
 
 <!-- Proudly created with Rawsan -->
 
