@@ -196,6 +196,7 @@
 <a href="mailto:an.rawsan@gmail.com"><img src="https://img.shields.io/badge/Gmail-020617?style=for-the-badge&logo=gmail&logoColor=00F5FF"></a>&nbsp;
 <a href="https://github.com/J-M-Rawsan"><img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=00F5FF"></a>
 </div>
+
 ---
 
 <table width="100%" style="border:none; border-collapse:separate; border-spacing:14px;">
