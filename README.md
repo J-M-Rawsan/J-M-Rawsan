@@ -256,5 +256,7 @@
 <!-- Proudly created with Rawsan -->
 
 </p>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:090979&height=3&section=footer" width="100%">
+</p>
 
