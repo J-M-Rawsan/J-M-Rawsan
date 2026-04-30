@@ -11,7 +11,11 @@
 
 </div>
 
----
+ <!-- GLOW LINE -->
+ 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:090979&height=3&section=footer" width="100%">
+</p>
 
 <!-- WHOAMI -->
 
@@ -53,8 +57,11 @@
 
 </div>
 
-
----
+ <!-- GLOW LINE -->
+ 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:090979&height=3&section=footer" width="100%">
+</p>
 
 
 <!-- TECH STACK -->
@@ -78,7 +85,12 @@
   <img src="https://img.shields.io/badge/Cisco-020617?style=for-the-badge&logo=cisco&logoColor=00F5FF">
 </p>
 
- ---
+ <!-- GLOW LINE -->
+ 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:090979&height=3&section=footer" width="100%">
+</p>
+
 <!-- SKILL MATRIX HEADER -->
 
 <p align="left">
@@ -103,7 +115,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1200&pause=300&color=38BDF8&center=true&vCenter=true&width=700&lines=analyzing+skill+modules...;cyber+load+calculated;matrix+sync+complete" />
 
----
+ <!-- GLOW LINE -->
+ 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:090979&height=3&section=footer" width="100%">
+</p>
 
 
 <!-- TROPHIES -->
@@ -118,7 +134,11 @@
 
 </div>
 
----
+ <!-- GLOW LINE -->
+ 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:090979&height=3&section=footer" width="100%">
+</p>
 
 <!-- CONTRIBUTION SNAKE -->
 
@@ -141,7 +161,11 @@
   />
 </picture>
 
----
+ <!-- GLOW LINE -->
+ 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:090979&height=3&section=footer" width="100%">
+</p>
 
 <!-- CYBER QUOTE HEADER -->
 
@@ -156,7 +180,11 @@
 </p>
 
 
----
+ <!-- GLOW LINE -->
+ 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:090979&height=3&section=footer" width="100%">
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:00F5FF,100:020617&height=120&section=header&animation=twinkling" width="100%"/>
@@ -188,7 +216,11 @@
 </p>
 
 
----
+ <!-- GLOW LINE -->
+ 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:090979&height=3&section=footer" width="100%">
+</p>
 
 <!-- CONNECT -->
 
@@ -202,7 +234,11 @@
 <a href="https://github.com/J-M-Rawsan"><img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=00F5FF"></a>
 </div>
 
----
+ <!-- GLOW LINE -->
+ 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:090979&height=3&section=footer" width="100%">
+</p>
 
 <table width="100%" style="border:none; border-collapse:separate; border-spacing:14px;">
 <tr>
@@ -237,7 +273,11 @@
 </tr>
 </table>
 
----
+ <!-- GLOW LINE -->
+ 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:090979&height=3&section=footer" width="100%">
+</p>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:020a0e&height=100&section=footer" width="100%"/>
