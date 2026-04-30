@@ -52,6 +52,24 @@
 
 </div>
 
+<!-- FLOAT STYLE PANEL (SIMULATED) -->
+<div align="right">
+
+  <!-- GLASS CARD TOP GLOW -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:020024,100:00F5FF&height=2" width="260"><br>
+
+  <!-- CARD BODY -->
+  <img src="https://img.shields.io/badge/👁️%20VISITOR%20SYSTEM-ACTIVE-00F5FF?style=for-the-badge&labelColor=020617"><br>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=1200&pause=300&color=38BDF8&vCenter=true&width=260&lines=tracking+live+traffic...;signal+locked;data+stream+active"><br>
+
+  <!-- REAL COUNTER -->
+  <img src="https://count.getloli.com/get/@J-M-Rawsan?theme=rule34"><br>
+
+  <!-- BOTTOM GLOW -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,50:00F5FF,100:020024&height=2" width="260">
+
+</div>
 ---
 
 
@@ -215,15 +233,6 @@
   <img src="https://img.shields.io/github/stars/J-M-Rawsan?label=STARS&style=for-the-badge&color=00F5FF&labelColor=020617" />
 </p>
 
-<div align="center">
-
-  <!-- PANEL BOX -->
-  <table>
-    <tr>
-      <!-- PROFILE IMAGE -->
-      <td width="180" align="center">
-        <img src="https://avatars.githubusercontent.com/u/000000?v=4" width="140" style="border-radius:50%; border:3px solid #00F5FF;" />
-      </td>
 
 <!-- Proudly created with Rawsan -->
 
