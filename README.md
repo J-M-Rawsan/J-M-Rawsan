@@ -227,9 +227,7 @@
 <!-- RIGHT SIDE LIVE COUNTER PANEL -->
 <div align="right">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=1200&pause=300&color=38BDF8&vCenter=true&width=260&lines=tracking+live+traffic...;signal+locked;data+stream+active"><br>
-  <img src="https://count.getloli.com/get/@J-M-Rawsan?theme=rule34"><br>
- font=Fira+Code&size=13&duration=1200&pause=300&color=38BDF8&vCenter=true&width=260&lines=tracking+live+traffic...;signal+locked;data+stream+active"><br>
-  <img src="https://count.getloli.com/get/@J-M-Rawsan?theme=rule34"><br>
+    <img src="https://count.getloli.com/get/@J-M-Rawsan?theme=rule34"><br>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,50:00F5FF,100:020024&height=2" width="260">
 </div>
 
