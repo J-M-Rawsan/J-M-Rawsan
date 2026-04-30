@@ -298,4 +298,6 @@
 
 
 <!-- Proudly created with Rawsan -->
-
+<p align="center">
+  <img src="skill-matrix.svg" alt="Skill Matrix" width="700"/>
+</p>
