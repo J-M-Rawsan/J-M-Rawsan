@@ -213,6 +213,22 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,50:00F5FF,100:020024&height=2" width="260">
 </div>
 
+<!-- NEXT LEVEL CYBER LOCATION PANEL -->
+
+<div align="left">
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:020024,100:00F5FF&height=2" width="420"><br>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=1600&pause=500&color=00F5FF&vCenter=true&width=420&lines=📍+LOCATION+NODE+DETECTED;🌐+SRI+LANKA+SIGNAL+ACTIVE;⚡+CYBER+ZONE+ONLINE" /><br>
+
+  <img src="https://img.shields.io/badge/🌍%20REGION-SRI%20LANKA-00F5FF?style=for-the-badge&labelColor=020617">
+  <img src="https://img.shields.io/badge/🕒%20GMT%2B5%3A30-020617?style=for-the-badge&labelColor=00F5FF"><br>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=900&pause=200&color=38BDF8&vCenter=true&width=420&lines=▰▰▰▱▱+NODE+PINGING...;◢◤+COORDINATES+LOCKED+◥◣;data+route:+LK+%E2%86%92+GLOBAL+NETWORK" /><br>
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,50:00F5FF,100:020024&height=2" width="420">
+
+</div>
 
 ---
 
