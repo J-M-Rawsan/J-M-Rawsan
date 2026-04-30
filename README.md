@@ -204,31 +204,36 @@
 
 ---
 
-<!-- VISITOR SYSTEM -->
+<table width="100%">
+  <tr>
 
-<div align="right">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:020024,100:00F5FF&height=2" width="260"><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=1200&pause=300&color=38BDF8&vCenter=true&width=260&lines=tracking+live+traffic...;signal+locked;data+stream+active"><br>
-  <img src="https://count.getloli.com/get/@J-M-Rawsan?theme=rule34"><br>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,50:00F5FF,100:020024&height=2" width="260">
-</div>
+    <!-- LEFT PANEL -->
+    <td align="left" width="50%">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:020024,100:00F5FF&height=2" width="420"><br>
 
-<!-- NEXT LEVEL CYBER LOCATION PANEL -->
+      <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=1600&pause=500&color=00F5FF&vCenter=true&width=420&lines=🌐+SRI+LANKA+SIGNAL+ACTIVE"><br>
 
-<div align="left">
+      <img src="https://img.shields.io/badge/🌍%20REGION-SRI%20LANKA-00F5FF?style=for-the-badge&labelColor=020617">
+      <img src="https://img.shields.io/badge/🕒%20GMT%2B5%3A30-020617?style=for-the-badge&labelColor=00F5FF"><br>
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:020024,100:00F5FF&height=2" width="420"><br>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=900&pause=200&color=38BDF8&vCenter=true&width=420&lines=data+route:+LK+→+GLOBAL+NETWORK;node+pinging...;coordinates+locked"><br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=1600&pause=500&color=00F5FF&vCenter=true&width=420&lines=📍+LOCATION+NODE+DETECTED;🌐+SRI+LANKA+SIGNAL+ACTIVE;⚡+CYBER+ZONE+ONLINE" /><br>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,50:00F5FF,100:020024&height=2" width="420">
+    </td>
 
-  <img src="https://img.shields.io/badge/🌍%20REGION-SRI%20LANKA-00F5FF?style=for-the-badge&labelColor=020617">
-  <img src="https://img.shields.io/badge/🕒%20GMT%2B5%3A30-020617?style=for-the-badge&labelColor=00F5FF"><br>
+    <!-- RIGHT PANEL -->
+    <td align="right" width="50%">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:020024,100:00F5FF&height=2" width="420"><br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=900&pause=200&color=38BDF8&vCenter=true&width=420&lines=▰▰▰▱▱+NODE+PINGING...;◢◤+COORDINATES+LOCKED+◥◣;data+route:+LK+%E2%86%92+GLOBAL+NETWORK" /><br>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1200&pause=300&color=38BDF8&vCenter=true&width=420&lines=tracking+live+traffic...;signal+locked;data+stream+active"><br>
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,50:00F5FF,100:020024&height=2" width="420">
+      <img src="https://count.getloli.com/get/@J-M-Rawsan?theme=rule34"><br>
 
-</div>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,50:00F5FF,100:020024&height=2" width="420">
+    </td>
+
+  </tr>
+</table>
 
 ---
 
@@ -247,25 +252,4 @@
 
 
 <!-- Proudly created with Rawsan -->
-<table width="100%">
-  <tr>
-    <!-- LEFT LOCATION PANEL -->
-    <td align="left" width="50%">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:020024,100:00F5FF&height=2" width="420"><br>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=1600&pause=500&color=00F5FF&vCenter=true&width=420&lines=🌐+SRI+LANKA+SIGNAL+ACTIVE" /><br>
-      <img src="https://img.shields.io/badge/🌍%20REGION-SRI%20LANKA-00F5FF?style=for-the-badge&labelColor=020617">
-      <img src="https://img.shields.io/badge/🕒%20GMT%2B5%3A30-020617?style=for-the-badge&labelColor=00F5FF"><br>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=900&pause=200&color=38BDF8&vCenter=true&width=420&lines=data+route:+LK+%E2%86%92+GLOBAL+NETWORK;node+pinging...;coordinates+locked" /><br>
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,50:00F5FF,100:020024&height=2" width="420">
-    </td>
-
-    <!-- RIGHT VISITOR PANEL -->
-    <td align="right" width="50%">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:020024,100:00F5FF&height=2" width="420"><br>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1200&pause=300&color=38BDF8&vCenter=true&width=420&lines=tracking+live+traffic...;signal+locked;data+stream+active"><br>
-      <img src="https://count.getloli.com/get/@J-M-Rawsan?theme=rule34"><br>
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,50:00F5FF,100:020024&height=2" width="420">
-    </td>
-  </tr>
-</table>
 
