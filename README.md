@@ -190,16 +190,12 @@
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=650&lines=🔗+CONNECT" />
 </p>
-
 <div align="center">
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/realrawsan)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/j-m-raushan-a2b93b3ab)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:an.rawsan@gmail.com)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/J-M-Rawsan)
-
+<a href="https://twitter.com/realrawsan"><img src="https://img.shields.io/badge/Twitter-020617?style=for-the-badge&logo=twitter&logoColor=00F5FF"></a>&nbsp;
+<a href="https://linkedin.com/in/j-m-raushan-a2b93b3ab"><img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=00F5FF"></a>&nbsp;
+<a href="mailto:an.rawsan@gmail.com"><img src="https://img.shields.io/badge/Gmail-020617?style=for-the-badge&logo=gmail&logoColor=00F5FF"></a>&nbsp;
+<a href="https://github.com/J-M-Rawsan"><img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=00F5FF"></a>
 </div>
-
 ---
 
 <table width="100%" style="border:none; border-collapse:separate; border-spacing:14px;">
@@ -252,23 +248,5 @@
 
 
 <!-- Proudly created with Rawsan -->
-<div align="center">
 
-<a href="https://twitter.com/realrawsan">
-  <img src="https://img.shields.io/badge/Twitter-020617?style=for-the-badge&logo=twitter&logoColor=00F5FF">
-</a>
-
-<a href="https://linkedin.com/in/j-m-raushan-a2b93b3ab">
-  <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=00F5FF">
-</a>
-
-<a href="mailto:an.rawsan@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-020617?style=for-the-badge&logo=gmail&logoColor=00F5FF">
-</a>
-
-<a href="https://github.com/J-M-Rawsan">
-  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=00F5FF">
-</a>
-
-</div>
 
