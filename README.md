@@ -206,7 +206,7 @@
 <table>
 <tr>
 
-<td width="50%" align="left" style="padding-right: 20px;">
+<td width="50%" align="left" style="padding-right: 40px;">
 
 <!-- LEFT PANEL -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:020024,100:00F5FF&height=2" width="420"><br>
@@ -218,7 +218,7 @@
 
 </td>
 
-<td width="50%" align="right" style="padding-left: 20px;">
+<td width="50%" align="right" style="padding-left: 40px;">
 
 <!-- RIGHT PANEL -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:020024,100:00F5FF&height=2" width="420"><br>
