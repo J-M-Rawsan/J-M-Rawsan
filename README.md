@@ -249,3 +249,35 @@
 
 
 <!-- Proudly created with Rawsan -->
+<!-- SKILL MATRIX HEADER -->
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=650&lines=💀+SKILL+MATRIX;⚡+CYBER+ABILITY+SCANNER" />
+</p>
+
+<!-- TOP NEON LINE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:020024,100:00F5FF&height=4" width="85%">
+</p>
+
+<div align="center">
+
+| ⚡ 𝙼𝙾𝙳𝚄𝙻𝙴 | 🔋 𝙲𝚈𝙱𝙴𝚁 𝙻𝙾𝙰𝙳 | 📡 𝙻𝙴𝚅𝙴𝙻 |
+|:---|:---:|---:|
+| 🐍 𝙿𝚈𝚃𝙷𝙾𝙽 | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░` | `𝟗𝟎%` |
+| 🛡️ 𝙲𝚈𝙱𝙴𝚁 𝚂𝙴𝙲𝚄𝚁𝙸𝚃𝚈 | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░` | `𝟕𝟖%` |
+| 🌐 𝙷𝚃𝙼𝙻 / 𝙲𝚂𝚂 | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░` | `𝟕𝟐%` |
+| 🟨 𝙹𝙰𝚅𝙰𝚂𝙲𝚁𝙸𝙿𝚃 | `▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░` | `𝟔𝟎%` |
+| ☕ 𝙹𝙰𝚅𝙰 | `▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░` | `𝟓𝟓%` |
+| 🗄️ 𝚂𝚀𝙻 / 𝙼𝚈𝚂𝚀𝙻 | `▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░` | `𝟓𝟖%` |
+
+</div>
+
+<!-- ANIMATED SCANNER TEXT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1200&pause=300&color=38BDF8&center=true&vCenter=true&width=700&lines=analyzing+skill+modules...;cyber+load+calculated;matrix+sync+complete" />
+</p>
+
+<!-- BOTTOM NEON LINE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,50:00F5FF,100:020024&height=4" width="85%">
+</p>
