@@ -254,17 +254,12 @@
 
 
 <!-- Proudly created with Rawsan -->
-<table width="100%" style="border:none; border-collapse:separate; border-spacing:16px;">
+<table width="100%" border="0" cellpadding="0" cellspacing="12">
 <tr>
 
-<!-- LEFT CARD -->
-<td align="center" valign="top" width="48%"
-    style="background:#020617; 
-           border:1px solid #00F5FF; 
-           box-shadow:0 0 8px #00F5FF, 0 0 20px #00F5FF, inset 0 0 10px #00F5FF; 
-           padding:12px;">
+<td width="48%" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:020024,100:00F5FF&height=4" width="100%"><br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:020024&height=6" width="100%"><br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=1600&pause=500&color=00F5FF&vCenter=true&width=500&lines=SRI+LANKA+SIGNAL+ACTIVE"><br>
 
@@ -273,24 +268,19 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=900&pause=200&color=38BDF8&vCenter=true&width=500&lines=node+pinging...;coordinates+locked"><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,50:00F5FF,100:020024&height=4" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,100:00F5FF&height=6" width="100%">
 
 </td>
 
-<!-- RIGHT CARD -->
-<td align="center" valign="top" width="48%"
-    style="background:#020617; 
-           border:1px solid #00F5FF; 
-           box-shadow:0 0 8px #00F5FF, 0 0 20px #00F5FF, inset 0 0 10px #00F5FF; 
-           padding:12px;">
+<td width="48%" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:020024,100:00F5FF&height=4" width="100%"><br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:020024&height=6" width="100%"><br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1200&pause=300&color=38BDF8&vCenter=true&width=500&lines=signal+locked;data+stream+active"><br>
 
 <img src="https://count.getloli.com/get/@J-M-Rawsan?theme=rule34"><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,50:00F5FF,100:020024&height=4" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,100:00F5FF&height=6" width="100%">
 
 </td>
 
