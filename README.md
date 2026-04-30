@@ -215,6 +215,15 @@
   <img src="https://img.shields.io/github/stars/J-M-Rawsan?label=STARS&style=for-the-badge&color=00F5FF&labelColor=020617" />
 </p>
 
+<div align="center">
+
+  <!-- PANEL BOX -->
+  <table>
+    <tr>
+      <!-- PROFILE IMAGE -->
+      <td width="180" align="center">
+        <img src="https://avatars.githubusercontent.com/u/000000?v=4" width="140" style="border-radius:50%; border:3px solid #00F5FF;" />
+      </td>
 
 <!-- Proudly created with Rawsan -->
 
