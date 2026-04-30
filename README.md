@@ -53,7 +53,7 @@
 </div>
 
 <!-- FLOAT STYLE PANEL (SIMULATED) -->
-<div align="right">
+<div align="left">
 
   <!-- GLASS CARD TOP GLOW -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:020024,100:00F5FF&height=2" width="260"><br>
