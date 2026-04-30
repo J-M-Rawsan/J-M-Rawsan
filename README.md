@@ -254,4 +254,45 @@
 
 
 <!-- Proudly created with Rawsan -->
+<table width="100%" style="border:none; border-collapse:separate; border-spacing:16px;">
+<tr>
 
+<!-- LEFT CARD -->
+<td align="center" valign="top" width="48%"
+    style="background:#020617; 
+           border:1px solid #00F5FF; 
+           box-shadow:0 0 8px #00F5FF, 0 0 20px #00F5FF, inset 0 0 10px #00F5FF; 
+           padding:12px;">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:020024,100:00F5FF&height=4" width="100%"><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=1600&pause=500&color=00F5FF&vCenter=true&width=500&lines=SRI+LANKA+SIGNAL+ACTIVE"><br>
+
+<img src="https://img.shields.io/badge/REGION-SRI%20LANKA-00F5FF?style=for-the-badge&labelColor=020617">
+<img src="https://img.shields.io/badge/TIMEZONE-GMT%2B5%3A30-020617?style=for-the-badge&labelColor=00F5FF"><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=900&pause=200&color=38BDF8&vCenter=true&width=500&lines=node+pinging...;coordinates+locked"><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,50:00F5FF,100:020024&height=4" width="100%">
+
+</td>
+
+<!-- RIGHT CARD -->
+<td align="center" valign="top" width="48%"
+    style="background:#020617; 
+           border:1px solid #00F5FF; 
+           box-shadow:0 0 8px #00F5FF, 0 0 20px #00F5FF, inset 0 0 10px #00F5FF; 
+           padding:12px;">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:020024,100:00F5FF&height=4" width="100%"><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1200&pause=300&color=38BDF8&vCenter=true&width=500&lines=signal+locked;data+stream+active"><br>
+
+<img src="https://count.getloli.com/get/@J-M-Rawsan?theme=rule34"><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,50:00F5FF,100:020024&height=4" width="100%">
+
+</td>
+
+</tr>
+</table>
