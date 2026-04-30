@@ -63,22 +63,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=500&lines=💻+TECH+STACK" />
 </p>
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=00F5FF">
+  <img src="https://img.shields.io/badge/Java-020617?style=for-the-badge&logo=openjdk&logoColor=00F5FF">
+  <img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=00F5FF">
+  <img src="https://img.shields.io/badge/HTML5-020617?style=for-the-badge&logo=html5&logoColor=00F5FF">
+  <img src="https://img.shields.io/badge/CSS3-020617?style=for-the-badge&logo=css3&logoColor=00F5FF">
+  <img src="https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=node.js&logoColor=00F5FF">
+  <img src="https://img.shields.io/badge/Anaconda-020617?style=for-the-badge&logo=anaconda&logoColor=00F5FF">
+  <img src="https://img.shields.io/badge/MySQL-020617?style=for-the-badge&logo=mysql&logoColor=00F5FF">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-020617?style=for-the-badge&logo=microsoftsqlserver&logoColor=00F5FF">
+  <img src="https://img.shields.io/badge/Canva-020617?style=for-the-badge&logo=canva&logoColor=00F5FF">
+  <img src="https://img.shields.io/badge/Photoshop-020617?style=for-the-badge&logo=adobephotoshop&logoColor=00F5FF">
+  <img src="https://img.shields.io/badge/Cisco-020617?style=for-the-badge&logo=cisco&logoColor=00F5FF">
+</p>
 
  ---
 <!-- SKILL MATRIX -->
@@ -255,17 +253,4 @@
 
 <!-- Proudly created with Rawsan -->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=00F5FF">
-  <img src="https://img.shields.io/badge/Java-020617?style=for-the-badge&logo=openjdk&logoColor=00F5FF">
-  <img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=00F5FF">
-  <img src="https://img.shields.io/badge/HTML5-020617?style=for-the-badge&logo=html5&logoColor=00F5FF">
-  <img src="https://img.shields.io/badge/CSS3-020617?style=for-the-badge&logo=css3&logoColor=00F5FF">
-  <img src="https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=node.js&logoColor=00F5FF">
-  <img src="https://img.shields.io/badge/Anaconda-020617?style=for-the-badge&logo=anaconda&logoColor=00F5FF">
-  <img src="https://img.shields.io/badge/MySQL-020617?style=for-the-badge&logo=mysql&logoColor=00F5FF">
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-020617?style=for-the-badge&logo=microsoftsqlserver&logoColor=00F5FF">
-  <img src="https://img.shields.io/badge/Canva-020617?style=for-the-badge&logo=canva&logoColor=00F5FF">
-  <img src="https://img.shields.io/badge/Photoshop-020617?style=for-the-badge&logo=adobephotoshop&logoColor=00F5FF">
-  <img src="https://img.shields.io/badge/Cisco-020617?style=for-the-badge&logo=cisco&logoColor=00F5FF">
-</p>
+
