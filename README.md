@@ -260,3 +260,39 @@
 
 </tr>
 </table>
+
+<div align="center">
+
+<!-- LEFT PANEL -->
+<div align="left" style="display:inline-block; width:45%; vertical-align:top;">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:020024,100:00F5FF&height=2" width="90%"><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=1600&pause=500&color=00F5FF&vCenter=true&width=450&lines=SRI+LANKA+SIGNAL+ACTIVE"><br>
+
+<img src="https://img.shields.io/badge/REGION-SRI%20LANKA-00F5FF?style=for-the-badge&labelColor=020617">
+<img src="https://img.shields.io/badge/TIMEZONE-GMT%2B5%3A30-020617?style=for-the-badge&labelColor=00F5FF"><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=900&pause=200&color=38BDF8&vCenter=true&width=450&lines=node+pinging...;coordinates+locked"><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,50:00F5FF,100:020024&height=2" width="90%">
+
+</div>
+
+<!-- SPACE -->
+<div style="display:inline-block; width:8%;"></div>
+
+<!-- RIGHT PANEL -->
+<div align="right" style="display:inline-block; width:45%; vertical-align:top;">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:020024,100:00F5FF&height=2" width="90%"><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1200&pause=300&color=38BDF8&vCenter=true&width=450&lines=signal+locked;data+stream+active"><br>
+
+<img src="https://count.getloli.com/get/@J-M-Rawsan?theme=rule34"><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,50:00F5FF,100:020024&height=2" width="90%">
+
+</div>
+
+</div>
