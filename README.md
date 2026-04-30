@@ -208,9 +208,13 @@
 *♟️ Stay in the shadows...*
 </div>
 
+<!-- GLOWING BADGES -->
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=650&lines=📊+LIVE+STATUS+BOARD" />
+  <img src="https://komarev.com/ghpvc/?username=J-M-Rawsan&label=👁️+PROFILE+VIEWS&color=00F5FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/J-M-Rawsan?label=FOLLOWERS&style=for-the-badge&color=00F5FF&labelColor=020617" />
+  <img src="https://img.shields.io/github/stars/J-M-Rawsan?label=STARS&style=for-the-badge&color=00F5FF&labelColor=020617" />
 </p>
+
 
 <!-- Proudly created with Rawsan -->
 
