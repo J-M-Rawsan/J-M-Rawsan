@@ -101,8 +101,9 @@
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=650&lines=💀+SKILL+MATRIX;⚡+CYBER+ABILITY+SCANNER" />
 </p>
-<div align="center">
 
+<div align="center">
+```bash
 `┌──────────────────────────────────────────────────────────────┐`  
 `│                    HACKER SKILL GRAPH                        │`  
 `├──────────────────────────────────────────────────────────────┤`  
@@ -113,7 +114,7 @@
 `│ JAVA          ███████████░░░░░░░░░░░░░   55%                 │`  
 `│ SQL / MYSQL   ███████████░░░░░░░░░░░░░   58%                 │`  
 `└──────────────────────────────────────────────────────────────┘`
-
+```
 </div>
 
 
