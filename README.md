@@ -213,12 +213,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,50:00F5FF,100:020024&height=2" width="260">
 </div>
 
-<div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1500&pause=400&color=38BDF8&vCenter=true&width=520&lines=//+SYSTEM+MESSAGE;Stay+hidden.+Stay+sharp.;Code+in+silence,+debug+in+style." />
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:020a0e&height=100&section=footer" width="100%"/>
 
 *♟️ Stay in the shadows...*
 </div>
