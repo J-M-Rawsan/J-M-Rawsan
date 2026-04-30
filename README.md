@@ -229,9 +229,9 @@
 <tr>
 
 <!-- LEFT PANEL -->
-<td align="left" valign="top" width="48%" style="border:none;">
+<td align="center" valign="top" width="48%" style="border:none;">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:020024,100:00F5FF&height=2" width="90%"><br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:020024,100:00F5FF&height=2" width="80%"><br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=1600&pause=500&color=00F5FF&vCenter=true&width=450&lines=SRI+LANKA+SIGNAL+ACTIVE"><br>
 
@@ -240,23 +240,23 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=900&pause=200&color=38BDF8&vCenter=true&width=450&lines=node+pinging...;coordinates+locked"><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,50:00F5FF,100:020024&height=2" width="90%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,50:00F5FF,100:020024&height=2" width="80%">
 
 </td>
 
 <!-- GAP -->
-<td width="4%" style="border:none;"></td>
+<td width="4%"></td>
 
 <!-- RIGHT PANEL -->
-<td align="right" valign="top" width="48%" style="border:none;">
+<td align="center" valign="top" width="48%" style="border:none;">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:020024,100:00F5FF&height=2" width="90%"><br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:020024,100:00F5FF&height=2" width="80%"><br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1200&pause=300&color=38BDF8&vCenter=true&width=450&lines=signal+locked;data+stream+active"><br>
 
 <img src="https://count.getloli.com/get/@J-M-Rawsan?theme=rule34"><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,50:00F5FF,100:020024&height=2" width="90%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,50:00F5FF,100:020024&height=2" width="80%">
 
 </td>
 
