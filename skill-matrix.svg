@@ -1,0 +1,152 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="380" viewBox="0 0 700 380">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#020617"/>
+      <stop offset="100%" style="stop-color:#0a0f2e"/>
+    </linearGradient>
+    <linearGradient id="topLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#020617;stop-opacity:0"/>
+      <stop offset="50%" style="stop-color:#00f5ff;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#020617;stop-opacity:0"/>
+    </linearGradient>
+    <linearGradient id="botLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#020617;stop-opacity:0"/>
+      <stop offset="50%" style="stop-color:#090979;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#020617;stop-opacity:0"/>
+    </linearGradient>
+    <linearGradient id="barTeal" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0891b2"/>
+      <stop offset="100%" style="stop-color:#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="barBlue" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1d4ed8"/>
+      <stop offset="100%" style="stop-color:#60a5fa"/>
+    </linearGradient>
+    <linearGradient id="barGreen" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#166534"/>
+      <stop offset="100%" style="stop-color:#86efac"/>
+    </linearGradient>
+    <linearGradient id="barAmber" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#b45309"/>
+      <stop offset="100%" style="stop-color:#fcd34d"/>
+    </linearGradient>
+    <linearGradient id="barPurple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6d28d9"/>
+      <stop offset="100%" style="stop-color:#c4b5fd"/>
+    </linearGradient>
+    <linearGradient id="barPink" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#9d174d"/>
+      <stop offset="100%" style="stop-color:#f9a8d4"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="bar1clip"><rect x="0" y="0" width="252" height="10" rx="2"/></clipPath>
+    <clipPath id="bar2clip"><rect x="0" y="0" width="218" height="10" rx="2"/></clipPath>
+    <clipPath id="bar3clip"><rect x="0" y="0" width="202" height="10" rx="2"/></clipPath>
+    <clipPath id="bar4clip"><rect x="0" y="0" width="168" height="10" rx="2"/></clipPath>
+    <clipPath id="bar5clip"><rect x="0" y="0" width="154" height="10" rx="2"/></clipPath>
+    <clipPath id="bar6clip"><rect x="0" y="0" width="163" height="10" rx="2"/></clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="700" height="380" rx="10" fill="url(#bgGrad)"/>
+
+  <!-- Border -->
+  <rect width="700" height="380" rx="10" fill="none" stroke="#00f5ff" stroke-width="1" stroke-opacity="0.25"/>
+
+  <!-- Corner accents -->
+  <polyline points="0,30 0,10 10,10" fill="none" stroke="#00f5ff" stroke-width="1.5" opacity="0.8" transform="translate(8,8)"/>
+  <polyline points="30,0 690,0 690,10" fill="none" stroke="#00f5ff" stroke-width="1.5" opacity="0.8" transform="translate(-8,8)"/>
+  <polyline points="0,350 0,370 10,370" fill="none" stroke="#090979" stroke-width="1.5" opacity="0.8" transform="translate(8,-8)"/>
+  <polyline points="30,380 690,380 690,370" fill="none" stroke="#090979" stroke-width="1.5" opacity="0.8" transform="translate(-8,-8)"/>
+
+  <!-- Top divider line -->
+  <rect x="0" y="3" width="700" height="2" fill="url(#topLine)"/>
+
+  <!-- Header -->
+  <text x="350" y="42" font-family="'Orbitron', 'Courier New', monospace" font-size="20" font-weight="700" fill="#00f5ff" text-anchor="middle" filter="url(#glow)" letter-spacing="6">SKILL MATRIX</text>
+  <text x="350" y="62" font-family="'Courier New', monospace" font-size="10" fill="#38bdf8" text-anchor="middle" letter-spacing="8" opacity="0.65">◈ CYBER ABILITY SCANNER ◈</text>
+
+  <!-- Sub divider -->
+  <line x1="40" y1="76" x2="660" y2="76" stroke="#00f5ff" stroke-width="0.5" stroke-opacity="0.3"/>
+
+  <!-- Column headers -->
+  <text x="50" y="94" font-family="'Courier New', monospace" font-size="10" fill="#00f5ff" opacity="0.55" letter-spacing="2">MODULE</text>
+  <text x="290" y="94" font-family="'Courier New', monospace" font-size="10" fill="#00f5ff" opacity="0.55" letter-spacing="2">CYBER LOAD</text>
+  <text x="650" y="94" font-family="'Courier New', monospace" font-size="10" fill="#00f5ff" opacity="0.55" letter-spacing="2" text-anchor="end">LEVEL</text>
+
+  <line x1="40" y1="100" x2="660" y2="100" stroke="#00f5ff" stroke-width="0.5" stroke-opacity="0.15"/>
+
+  <!-- ROW 1 — Python 90% -->
+  <text x="50" y="126" font-family="'Courier New', monospace" font-size="13" fill="#e2e8f0" letter-spacing="1">🐍 PYTHON</text>
+  <!-- bar bg -->
+  <rect x="280" y="116" width="280" height="10" rx="2" fill="#0f172a" stroke="#00f5ff" stroke-width="0.5" stroke-opacity="0.2"/>
+  <!-- bar fill clipped -->
+  <g transform="translate(280,116)" clip-path="url(#bar1clip)">
+    <rect width="252" height="10" rx="2" fill="url(#barTeal)"/>
+    <rect x="248" y="0" width="4" height="10" fill="white" opacity="0.6"/>
+  </g>
+  <text x="650" y="126" font-family="'Orbitron','Courier New',monospace" font-size="11" fill="#22d3ee" text-anchor="end" letter-spacing="1">90%</text>
+  <line x1="40" y1="136" x2="660" y2="136" stroke="#ffffff" stroke-width="0.3" stroke-opacity="0.06"/>
+
+  <!-- ROW 2 — Cyber Security 78% -->
+  <text x="50" y="162" font-family="'Courier New', monospace" font-size="13" fill="#e2e8f0" letter-spacing="1">🛡️ CYBER SEC</text>
+  <rect x="280" y="152" width="280" height="10" rx="2" fill="#0f172a" stroke="#00f5ff" stroke-width="0.5" stroke-opacity="0.2"/>
+  <g transform="translate(280,152)" clip-path="url(#bar2clip)">
+    <rect width="218" height="10" rx="2" fill="url(#barBlue)"/>
+    <rect x="214" y="0" width="4" height="10" fill="white" opacity="0.6"/>
+  </g>
+  <text x="650" y="162" font-family="'Orbitron','Courier New',monospace" font-size="11" fill="#22d3ee" text-anchor="end" letter-spacing="1">78%</text>
+  <line x1="40" y1="172" x2="660" y2="172" stroke="#ffffff" stroke-width="0.3" stroke-opacity="0.06"/>
+
+  <!-- ROW 3 — HTML/CSS 72% -->
+  <text x="50" y="198" font-family="'Courier New', monospace" font-size="13" fill="#e2e8f0" letter-spacing="1">🌐 HTML / CSS</text>
+  <rect x="280" y="188" width="280" height="10" rx="2" fill="#0f172a" stroke="#00f5ff" stroke-width="0.5" stroke-opacity="0.2"/>
+  <g transform="translate(280,188)" clip-path="url(#bar3clip)">
+    <rect width="202" height="10" rx="2" fill="url(#barGreen)"/>
+    <rect x="198" y="0" width="4" height="10" fill="white" opacity="0.6"/>
+  </g>
+  <text x="650" y="198" font-family="'Orbitron','Courier New',monospace" font-size="11" fill="#60a5fa" text-anchor="end" letter-spacing="1">72%</text>
+  <line x1="40" y1="208" x2="660" y2="208" stroke="#ffffff" stroke-width="0.3" stroke-opacity="0.06"/>
+
+  <!-- ROW 4 — JavaScript 60% -->
+  <text x="50" y="234" font-family="'Courier New', monospace" font-size="13" fill="#e2e8f0" letter-spacing="1">🟨 JAVASCRIPT</text>
+  <rect x="280" y="224" width="280" height="10" rx="2" fill="#0f172a" stroke="#00f5ff" stroke-width="0.5" stroke-opacity="0.2"/>
+  <g transform="translate(280,224)" clip-path="url(#bar4clip)">
+    <rect width="168" height="10" rx="2" fill="url(#barAmber)"/>
+    <rect x="164" y="0" width="4" height="10" fill="white" opacity="0.6"/>
+  </g>
+  <text x="650" y="234" font-family="'Orbitron','Courier New',monospace" font-size="11" fill="#60a5fa" text-anchor="end" letter-spacing="1">60%</text>
+  <line x1="40" y1="244" x2="660" y2="244" stroke="#ffffff" stroke-width="0.3" stroke-opacity="0.06"/>
+
+  <!-- ROW 5 — Java 55% -->
+  <text x="50" y="270" font-family="'Courier New', monospace" font-size="13" fill="#e2e8f0" letter-spacing="1">☕ JAVA</text>
+  <rect x="280" y="260" width="280" height="10" rx="2" fill="#0f172a" stroke="#00f5ff" stroke-width="0.5" stroke-opacity="0.2"/>
+  <g transform="translate(280,260)" clip-path="url(#bar5clip)">
+    <rect width="154" height="10" rx="2" fill="url(#barPurple)"/>
+    <rect x="150" y="0" width="4" height="10" fill="white" opacity="0.6"/>
+  </g>
+  <text x="650" y="270" font-family="'Orbitron','Courier New',monospace" font-size="11" fill="#a78bfa" text-anchor="end" letter-spacing="1">55%</text>
+  <line x1="40" y1="280" x2="660" y2="280" stroke="#ffffff" stroke-width="0.3" stroke-opacity="0.06"/>
+
+  <!-- ROW 6 — SQL 58% -->
+  <text x="50" y="306" font-family="'Courier New', monospace" font-size="13" fill="#e2e8f0" letter-spacing="1">🗄️ SQL / MYSQL</text>
+  <rect x="280" y="296" width="280" height="10" rx="2" fill="#0f172a" stroke="#00f5ff" stroke-width="0.5" stroke-opacity="0.2"/>
+  <g transform="translate(280,296)" clip-path="url(#bar6clip)">
+    <rect width="163" height="10" rx="2" fill="url(#barPink)"/>
+    <rect x="159" y="0" width="4" height="10" fill="white" opacity="0.6"/>
+  </g>
+  <text x="650" y="306" font-family="'Orbitron','Courier New',monospace" font-size="11" fill="#a78bfa" text-anchor="end" letter-spacing="1">58%</text>
+
+  <!-- Footer divider -->
+  <line x1="40" y1="322" x2="660" y2="322" stroke="#00f5ff" stroke-width="0.5" stroke-opacity="0.3"/>
+
+  <!-- Footer text -->
+  <circle cx="58" cy="345" r="4" fill="#00f5ff" opacity="0.9"/>
+  <text x="72" y="350" font-family="'Courier New', monospace" font-size="10" fill="#38bdf8" opacity="0.55" letter-spacing="3">SYSTEM EFFICIENCY CALCULATED — MATRIX LOADED</text>
+
+  <!-- Bottom divider line -->
+  <rect x="0" y="375" width="700" height="2" fill="url(#botLine)"/>
+</svg>
