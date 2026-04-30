@@ -204,23 +204,6 @@
 
 ---
 
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:020a0e&height=100&section=footer" width="100%"/>
-
-*♟️ Stay in the shadows...*
-</div>
-
-<!-- GLOWING BADGES -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=J-M-Rawsan&label=👁️+PROFILE+VIEWS&color=00F5FF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/J-M-Rawsan?label=FOLLOWERS&style=for-the-badge&color=00F5FF&labelColor=020617" />
-  <img src="https://img.shields.io/github/stars/J-M-Rawsan?label=STARS&style=for-the-badge&color=00F5FF&labelColor=020617" />
-</p>
-
-
-<!-- Proudly created with Rawsan -->
 <table width="100%" style="border:none; border-collapse:separate; border-spacing:14px;">
 <tr>
 
@@ -253,3 +236,22 @@
 
 </tr>
 </table>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:020a0e&height=100&section=footer" width="100%"/>
+
+*♟️ Stay in the shadows...*
+</div>
+
+<!-- GLOWING BADGES -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=J-M-Rawsan&label=👁️+PROFILE+VIEWS&color=00F5FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/J-M-Rawsan?label=FOLLOWERS&style=for-the-badge&color=00F5FF&labelColor=020617" />
+  <img src="https://img.shields.io/github/stars/J-M-Rawsan?label=STARS&style=for-the-badge&color=00F5FF&labelColor=020617" />
+</p>
+
+
+<!-- Proudly created with Rawsan -->
+<
