@@ -238,9 +238,6 @@
 
 </td>
 
-<!-- GAP (push panels apart) -->
-<td width="100%"></td>
-
 <!-- RIGHT PANEL -->
 <td align="right" valign="top" width="50%">
 
@@ -253,4 +250,3 @@
 
 </tr>
 </table>
-
