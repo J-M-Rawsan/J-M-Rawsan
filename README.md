@@ -217,4 +217,9 @@
 
 
 <!-- Proudly created with Rawsan -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=J-M-Rawsan&label=PROFILE+VIEWS&style=for-the-badge&color=00F5FF&labelColor=020617" />
+  <img src="https://img.shields.io/github/followers/J-M-Rawsan?label=FOLLOWERS&style=for-the-badge&color=00F5FF&labelColor=020617" />
+  <img src="https://img.shields.io/github/stars/J-M-Rawsan?label=STARS&style=for-the-badge&color=00F5FF&labelColor=020617" />
+</p>
 
