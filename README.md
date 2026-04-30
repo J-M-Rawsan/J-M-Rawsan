@@ -37,7 +37,9 @@
   FUN FACT  :  RABBITS CAN SEE BEHIND THEM
                WITHOUT MOVING THEIR HEADS 🐇
 ```
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:020024,100:090979&height=5&section=footer" width="100%">
+</p>
 
 <!-- LIVE STATUS BOARD -->
 
