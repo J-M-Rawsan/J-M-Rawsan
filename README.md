@@ -299,6 +299,11 @@
 
 <!-- Proudly created with Rawsan -->
 
+<!-- HACKER SKILL MATRIX GRAPH STYLE -->
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=700&lines=💀+SKILL+MATRIX;⚡+HACKER+ABILITY+GRAPH" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:090979&height=3" width="100%">
@@ -306,6 +311,7 @@
 
 <div align="center">
 
+```text
 ┌──────────────────────────────────────────────┐
 │              HACKER SKILL GRAPH              │
 ├──────────────────────────────────────────────┤
