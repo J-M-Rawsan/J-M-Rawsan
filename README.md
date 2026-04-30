@@ -249,6 +249,9 @@
 
 
 <!-- Proudly created with Rawsan -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:020024,100:00F5FF&height=4" width="80%">
+</p>
 
 <div align="center">
 
@@ -262,3 +265,9 @@
 | 🗄️ SQL / MYSQL | `▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░` | `58%` |
 
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,50:00F5FF,100:020024&height=4" width="80%">
+</p>
+
+
