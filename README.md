@@ -221,3 +221,36 @@
 <!-- Proudly created with Rawsan -->
 
 
+
+
+<!-- CYBER LIVE STATUS BOARD -->
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=650&lines=📊+LIVE+STATUS+BOARD" />
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=J-M-Rawsan&label=👁️+PROFILE+VIEWS&color=00F5FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/J-M-Rawsan?label=FOLLOWERS&style=for-the-badge&color=00F5FF&labelColor=020617" />
+  <img src="https://img.shields.io/github/stars/J-M-Rawsan?label=STARS&style=for-the-badge&color=00F5FF&labelColor=020617" />
+</p>
+<!-- ANIMATED COUNTER UI -->
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1200&pause=300&color=38BDF8&vCenter=true&width=650&lines=▁▂▃▄▅▆▇+LIVE+PROFILE+TRAFFIC+ACTIVE;⚡+SYSTEM+MONITORING+ONLINE;👁️+VISITOR+SIGNAL+DETECTED" />
+</p>
+
+<!-- FULL STATS DASHBOARD -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=J-M-Rawsan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=J-M-Rawsan&theme=tokyonight&hide_border=true&background=020617&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-M-Rawsan&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=00F5FF&text_color=FFFFFF" width="45%" />
+</p>
+
+<!-- CYBER GLOW LINE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:020024,100:00F5FF&height=4" width="90%">
+</p>
+
