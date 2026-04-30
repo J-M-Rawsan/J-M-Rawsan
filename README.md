@@ -223,26 +223,6 @@
 
 
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=650&lines=📊+LIVE+STATUS+BOARD" />
-</p>
-
-<!-- TOP GLOW LINE -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:020024,100:00F5FF&height=3" width="95%">
-</p>
-
-<div align="center">
-
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=J-M-Rawsan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00d4ff&icon_color=00ff88&text_color=c8f0ff&bg_color=020a0e&cache_seconds=1800"/>
-
-  <img height="160em" src="https://streak-stats.demolab.com?user=J-M-Rawsan&theme=tokyonight&hide_border=true&background=020a0e&ring=00d4ff&fire=00ff88&currStreakLabel=00d4ff&sideLabels=c8f0ff&dates=3a7a8a"/>
-
-  <br>
-
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-M-Rawsan&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff&text_color=c8f0ff&bg_color=020a0e&cache_seconds=1800"/>
-
-</div>
 
 <!-- RIGHT SIDE LIVE COUNTER PANEL -->
 <div align="right">
