@@ -228,18 +228,116 @@
 
 <!-- Proudly created with Rawsan -->
 
+<!-- CYBER HEADER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,40:020024,100:000000&height=120&section=header&animation=fadeIn" width="100%"/>
+</div>
+
+<!-- WHOAMI -->
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=750&lines=👨🏽‍💻+WHOAMI;🧩+CYBER+SECURITY+ENTHUSIAST;💻+DEVELOPER+%7C+PROBLEM+SOLVER;◢◤+SYSTEM+IDENTIFIED+◥◣" />
+</p>
+
+<p align="left">
+  ⚡ Cyber Security Enthusiast <br>
+  💻 Developer | Problem Solver <br>
+  🎯 Focus: Security • Coding • Research <br>
+  📍 Sri Lanka
+</p>
+
+<!-- TECH STACK -->
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=650&lines=💻+TECH+STACK" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,php,mysql,git,github,vscode,linux" />
+</p>
+
+<!-- LIVE STATUS BOARD -->
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=650&lines=📊+LIVE+STATUS+BOARD" />
 </p>
 
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:020024,100:00F5FF&height=3" width="95%">
+</p>
 
+<div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=J-M-Rawsan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00d4ff&icon_color=00ff88&text_color=c8f0ff&bg_color=020a0e&cache_seconds=1800"/>
   <img height="160em" src="https://streak-stats.demolab.com?user=J-M-Rawsan&theme=tokyonight&hide_border=true&background=020a0e&ring=00d4ff&fire=00ff88&currStreakLabel=00d4ff&sideLabels=c8f0ff&dates=3a7a8a"/>
 
   <br>
 
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-M-Rawsan&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff&text_color=c8f0ff&bg_color=020a0e&cache_seconds=1800"/>
-  <img height="140em" src="https://count.getloli.com/get/@J-M-Rawsan?theme=rule34"/>
+</div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1200&pause=300&color=38BDF8&center=true&vCenter=true&width=700&height=40&lines=▁▂▃▄▅▆▇+LIVE+PROFILE+TRAFFIC+ACTIVE;⚡+SYSTEM+MONITORING+ONLINE;👁️+VISITOR+SIGNAL+DETECTED" />
+</p>
+
+<!-- SKILL MATRIX -->
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=650&lines=💀+SKILL+MATRIX" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-M-Rawsan&layout=donut&theme=tokyonight&hide_border=true&title_color=00d4ff&text_color=c8f0ff&bg_color=020a0e" />
+</p>
+
+<!-- CONTRIBUTION SNAKE -->
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=650&lines=👾+CONTRIBUTION+SNAKE" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
+
+<!-- TROPHIES -->
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=650&lines=🏆+TROPHIES" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=J-M-Rawsan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+<!-- RANDOM DEV QUOTE -->
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=650&lines=✍️+RANDOM+DEV+QUOTE" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
+</p>
+
+<!-- CONNECT -->
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=650&lines=🔗+CONNECT" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/J-M-Rawsan">
+    <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=00F5FF" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=00F5FF" />
+  </a>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=00F5FF" />
+  </a>
+</p>
+
+<!-- VISITOR SYSTEM -->
+<div align="right">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:020024,100:00F5FF&height=2" width="260"><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=1200&pause=300&color=38BDF8&vCenter=true&width=260&lines=tracking+live+traffic...;signal+locked;data+stream+active"><br>
+  <img src="https://count.getloli.com/get/@J-M-Rawsan?theme=rule34"><br>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,50:00F5FF,100:020024&height=2" width="260">
+</div>
+
+<!-- FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00F5FF,100:020024&height=120&section=footer&animation=fadeIn" width="100%"/>
 </div>
