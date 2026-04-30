@@ -209,7 +209,7 @@
 </div>
 
 <p align="left">
-  <img src="https://count.getloli.com/get/@J-M-Rawsan?theme=rule34" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=650&lines=📊+LIVE+STATUS+BOARD" />
 </p>
 
 <!-- Proudly created with Rawsan -->
