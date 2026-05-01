@@ -303,38 +303,3 @@
 
 <!-- Proudly created with Rawsan -->
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=700&lines=📊+LIVE+STATUS+BOARD;⚡+SYSTEM+MONITORING+ACTIVE" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:090979&height=3" width="100%">
-</p>
-
-<table align="center">
-<tr>
-<td align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=J-M-Rawsan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00d4ff&icon_color=00ff88&text_color=c8f0ff&bg_color=020a0e" />
-</td>
-<td align="center">
-  <img width="390" src="https://streak-stats.demolab.com?user=J-M-Rawsan&theme=tokyonight&hide_border=true&background=020a0e&ring=00d4ff&fire=00ff88&currStreakLabel=00d4ff&sideLabels=c8f0ff&dates=3a7a8a" />
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-M-Rawsan&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff&text_color=c8f0ff&bg_color=020a0e" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=J-M-Rawsan&theme=react-dark&bg_color=020617&color=00F5FF&line=00F5FF&point=FFFFFF&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1200&pause=300&color=38BDF8&center=true&vCenter=true&width=700&lines=fetching+live+data...;updating+stats...;system+status:+ONLINE" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090979,100:00F5FF&height=3" width="100%">
-</p>
-
