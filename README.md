@@ -303,5 +303,4 @@
 
 
 <!-- Proudly created with Rawsan -->
-<!-- Commit Language (repo மட்டுமில்லாம commits based) -->
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=J-M-Rawsan&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=J-M-Rawsan&theme=tokyonight&hide_border=true&bg_color=020a0e&title_color=00d4ff&text_color=c8f0ff"/>
