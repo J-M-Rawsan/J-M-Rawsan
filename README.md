@@ -44,23 +44,24 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:090979&height=3&section=footer" width="100%">
 </p>
 
-<!-- LIVE STATUS BOARD -->
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=650&lines=📊+LIVE+STATUS+BOARD" />
-</p>
+<!-- LIVE STATUS BOARD -->
 
 <div align="center">
 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=J-M-Rawsan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00d4ff&icon_color=00ff88&text_color=c8f0ff&bg_color=020a0e&cache_seconds=1800"/>
+  <!-- GitHub Stats -->
+  <img height="160em" src="https://github-stats-alpha.vercel.app/api?username=J-M-Rawsan&cc=020a0e&tc=00d4ff&ic=00ff88&bc=020a0e"/>
 
-  <img height="160em" src="https://streak-stats.demolab.com?user=J-M-Rawsan&theme=tokyonight&hide_border=true&background=020a0e&ring=00d4ff&fire=00ff88&currStreakLabel=00d4ff&sideLabels=c8f0ff&dates=3a7a8a"/>
+  <!-- Streak Stats -->
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=J-M-Rawsan&theme=tokyonight&hide_border=true&background=020a0e&ring=00d4ff&fire=00ff88&currStreakLabel=00d4ff&sideLabels=c8f0ff&dates=3a7a8a"/>
 
   <br>
 
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-M-Rawsan&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff&text_color=c8f0ff&bg_color=020a0e&cache_seconds=1800"/>
+  <!-- Top Languages -->
+  <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=J-M-Rawsan&theme=tokyonight&hide_border=true"/>
 
 </div>
+
 
  <!-- GLOW LINE -->
  
