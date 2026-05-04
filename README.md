@@ -302,7 +302,3 @@
 
 
 <!-- Proudly created with Rawsan -->
-
-| Rawsan | Sahnas|
-|--------|-------|
-|                |
