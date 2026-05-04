@@ -304,15 +304,15 @@
 <!-- Proudly created with Rawsan -->
 <div align="center">
 
-  <!-- GitHub Stats - anuraghazra hosted -->
-  <img height="160em" src="https://ssr-github-stats.vercel.app/api?username=J-M-Rawsan&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=00ff88&text_color=c8f0ff&bg_color=020a0e"/>
+  <!-- GitHub Stats -->
+  <img height="160em" src="https://github-stats-alpha.vercel.app/api?username=J-M-Rawsan&cc=020a0e&tc=00d4ff&ic=00ff88&bc=020a0e"/>
 
-  <!-- Streak -->
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=J-M-Rawsan&theme=tokyonight&hide_border=true&background=020a0e&ring=00d4ff&fire=00ff88&currStreakLabel=00d4ff"/>
+  <!-- Streak Stats -->
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=J-M-Rawsan&theme=tokyonight&hide_border=true&background=020a0e&ring=00d4ff&fire=00ff88&currStreakLabel=00d4ff&sideLabels=c8f0ff&dates=3a7a8a"/>
 
   <br>
 
   <!-- Top Languages -->
-  <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=J-M-Rawsan&theme=tokyonight"/>
+  <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=J-M-Rawsan&theme=tokyonight&hide_border=true"/>
 
-</div>
+</div>>
