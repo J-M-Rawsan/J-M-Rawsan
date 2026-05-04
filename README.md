@@ -302,3 +302,17 @@
 
 
 <!-- Proudly created with Rawsan -->
+<div align="center">
+
+  <!-- GitHub Stats - Alternative -->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=J-M-Rawsan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00d4ff&icon_color=00ff88&text_color=c8f0ff&bg_color=020a0e"/>
+
+  <!-- Streak Stats - Already Working ✅ -->
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=J-M-Rawsan&theme=tokyonight&hide_border=true&background=020a0e&ring=00d4ff&fire=00ff88&currStreakLabel=00d4ff&sideLabels=c8f0ff&dates=3a7a8a"/>
+
+  <br>
+
+  <!-- Top Languages - Alternative -->
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-M-Rawsan&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff&text_color=c8f0ff&bg_color=020a0e"/>
+
+</div>
