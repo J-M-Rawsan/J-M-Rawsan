@@ -294,4 +294,12 @@
 
 <!-- Proudly created with Rawsan -->
 
-
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=650&lines=🔗+CONNECT" />
+</p>
+<div align="center">
+<a href="https://twitter.com/realrawsan"><img src="https://img.shields.io/badge/Twitter-020617?style=for-the-badge&logo=twitter&logoColor=00F5FF"></a>&nbsp;
+<a href="https://linkedin.com/in/j-m-raushan-a2b93b3ab"><img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=00F5FF"></a>&nbsp;
+<a href="mailto:an.rawsan@gmail.com"><img src="https://img.shields.io/badge/Gmail-020617?style=for-the-badge&logo=gmail&logoColor=00F5FF"></a>&nbsp;
+<a href="https://github.com/J-M-Rawsan"><img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=00F5FF"></a>
+</div>
