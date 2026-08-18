@@ -45,7 +45,9 @@
 </p>
 
 <!-- LIVE STATUS BOARD -->
-
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=650&lines=📊+LIVE+STATUS+BOARD" />
+</p>
 <div align="center">
 
   <!-- GitHub Stats -->
@@ -55,6 +57,11 @@
   <img height="160em" src="./profile/streak.svg"/>
 
   <br>
+
+   <!-- Top Languages -->
+  <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=J-M-Rawsan&theme=tokyonight&hide_border=true"/>
+
+</div>
  <!-- GLOW LINE -->
  
 <p align="center">
