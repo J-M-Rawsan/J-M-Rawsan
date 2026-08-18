@@ -20,7 +20,7 @@
 <!-- WHOAMI -->
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=750&lines=👨🏽‍💻+WHOAMI;◢◤+SYSTEM+LOADING...+◥◣" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=750&lines=👨🏽‍💻+WHOAMI;◢◤+SYSTEM+LOADING...+◥◣" />
 </p>
 
 ```bash
@@ -53,6 +53,7 @@
   <img height="160em" src="https://github-stats-alpha.vercel.app/api?username=J-M-Rawsan&cc=020a0e&tc=00d4ff&ic=00ff88&bc=020a0e"/>
 
   <!-- Streak Stats -->
+  <img height="160em" src="./profile/streak.svg"/>
 
   <br>
 
@@ -72,7 +73,7 @@
 <!-- TECH STACK -->
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=500&lines=💻+TECH+STACK" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=500&lines=💻+TECH+STACK" />
 </p>
 
 <p align="center">
@@ -99,7 +100,7 @@
 <!-- SKILL MATRIX HEADER -->
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=650&lines=💀+SKILL+MATRIX;⚡+CYBER+ABILITY+SCANNER" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=650&lines=💀+SKILL+MATRIX;⚡+CYBER+ABILITY+SCANNER" />
 </p>
 
 <!-- HACKER SKILL MATRIX GRAPH STYLE -->
@@ -121,7 +122,7 @@
 <!-- ANIMATED SCANNER TEXT -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1200&pause=300&color=38BDF8&center=true&vCenter=true&width=700&lines=analyzing+skill+modules...;cyber+load+calculated;matrix+sync+complete" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1200&pause=300&color=38BDF8&center=true&vCenter=true&width=700&lines=analyzing+skill+modules...;cyber+load+calculated;matrix+sync+complete" />
 
  <!-- GLOW LINE -->
  
@@ -133,12 +134,12 @@
 <!-- TROPHIES -->
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=650&lines=🏆+TROPHIES" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=650&lines=🏆+TROPHIES" />
 </p>
 
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=J-M-Rawsan&theme=tokyonight&no-frame=true&margin-w=8&column=4"/>
+<img src="./profile/trophy.svg"/>
 
 </div>
 
@@ -151,7 +152,7 @@
 <!-- CONTRIBUTION SNAKE -->
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=500&lines=👾+CONTRIBUTION+SNAKE" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=500&lines=👾+CONTRIBUTION+SNAKE" />
 </p>
 
 <picture>
@@ -178,7 +179,7 @@
 <!-- CYBER QUOTE HEADER -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=500&lines=✍️+RANDOM+DEV+QUOTE" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=500&lines=✍️+RANDOM+DEV+QUOTE" />
 </p>
 
 <!-- QUOTE CARD -->
@@ -199,7 +200,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&height=70&lines=%F0%9F%8E%A7+NOW+PLAYING+%F0%9F%8E%A7;Loading+your+vibes...;Cyber+Mode+Activated" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&height=70&lines=%F0%9F%8E%A7+NOW+PLAYING+%F0%9F%8E%A7;Loading+your+vibes...;Cyber+Mode+Activated" />
   
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:090979&height=3&section=footer" width="100%">
@@ -216,11 +217,11 @@
   
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=1800&pause=400&color=38BDF8&center=true&vCenter=true&width=700&height=40&lines=▰▰▰▱▱+PLAYING+SIGNAL+DETECTED+▱▱▰▰▰;◢◤+NEON+AUDIO+STREAM+ACTIVE+◥◣" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1800&pause=400&color=38BDF8&center=true&vCenter=true&width=700&height=40&lines=▰▰▰▱▱+PLAYING+SIGNAL+DETECTED+▱▱▰▰▰;◢◤+NEON+AUDIO+STREAM+ACTIVE+◥◣" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=900&pause=150&color=38BDF8&center=true&vCenter=true&width=900&height=45&lines=▁▂▃▄▅▆▇█▇▆▅▄▃▂▁;▂▄▆█▆▄▂▂▄▆█▆▄▂;▇▆▅▄▃▂▁▂▃▄▅▆▇;█▇▆▅▄▃▂▁▂▃▄▅▆▇█" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=900&pause=150&color=38BDF8&center=true&vCenter=true&width=900&height=45&lines=▁▂▃▄▅▆▇█▇▆▅▄▃▂▁;▂▄▆█▆▄▂▂▄▆█▆▄▂;▇▆▅▄▃▂▁▂▃▄▅▆▇;█▇▆▅▄▃▂▁▂▃▄▅▆▇█" />
 </p>
 
 
@@ -233,7 +234,7 @@
 <!-- CONNECT -->
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=650&lines=🔗+CONNECT" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=650&lines=🔗+CONNECT" />
 </p>
 <div align="center">
 <a href="https://twitter.com/realrawsan"><img src="https://img.shields.io/badge/Twitter-020617?style=for-the-badge&logo=twitter&logoColor=00F5FF"></a>&nbsp;
@@ -255,12 +256,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:020024,100:00F5FF&height=3" width="100%"><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=1600&pause=500&color=00F5FF&vCenter=true&width=500&lines=SRI+LANKA+SIGNAL+ACTIVE"><br>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=1600&pause=500&color=00F5FF&vCenter=true&width=500&lines=SRI+LANKA+SIGNAL+ACTIVE"><br>
 
 <img src="https://img.shields.io/badge/REGION-SRI%20LANKA-00F5FF?style=for-the-badge&labelColor=020617">
 <img src="https://img.shields.io/badge/TIMEZONE-GMT%2B5%3A30-020617?style=for-the-badge&labelColor=00F5FF"><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=900&pause=200&color=38BDF8&vCenter=true&width=500&lines=node+pinging...;coordinates+locked"><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=900&pause=200&color=38BDF8&vCenter=true&width=500&lines=node+pinging...;coordinates+locked"><br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,50:00F5FF,100:020024&height=3" width="100%">
 
@@ -270,9 +271,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:020024,100:00F5FF&height=3" width="100%"><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1200&pause=300&color=38BDF8&vCenter=true&width=500&lines=signal+locked;data+stream+active"><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1200&pause=300&color=38BDF8&vCenter=true&width=500&lines=signal+locked;data+stream+active"><br>
 
-<img src="https://count.getloli.com/get/@J-M-Rawsan?theme=rule34"><br>
+<img src="https://count.getloli.com/get/@J-M-Rawsan?theme=moebooru"><br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,50:00F5FF,100:020024&height=3" width="100%">
 
