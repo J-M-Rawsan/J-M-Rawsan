@@ -136,9 +136,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=650&lines=🏆+TROPHIES" />
 </p>
 
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&vCenter=true&width=650&lines=🏆+TROPHIES" />
+</p>
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=J-M-Rawsan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4"/>
+<img src="./profile/trophy.svg"/>
+
+</div>
 
 </div>
 
