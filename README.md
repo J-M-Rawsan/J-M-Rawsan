@@ -53,15 +53,6 @@
   <!-- GitHub Stats -->
   <img height="160em" src="https://github-stats-alpha.vercel.app/api?username=J-M-Rawsan&cc=020a0e&tc=00d4ff&ic=00ff88&bc=020a0e"/>
 
-  <!-- Streak Stats -->
-  <img height="160em" src="./profile/streak.svg"/>
-
-  <br>
-
-   <!-- Top Languages -->
-  <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=J-M-Rawsan&theme=tokyonight&hide_border=true"/>
-
-</div>
  <!-- GLOW LINE -->
  
 <p align="center">
